@@ -1,2 +1,2 @@
-- {{embed [[About Me]] }}
 - {{embed [[Blog Posts]]}}
+- {{embed [[Navigation]] }}
