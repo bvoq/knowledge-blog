@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url("https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@1.26.4/custom.css");
 
 @font-face {
@@ -12,7 +11,6 @@
 .genshin {
   font-family: Genshin;
 }
-=======
 @import url("https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css");
 @import url(https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap);
 @import url("https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap");
@@ -808,4 +806,4 @@ html[data-theme="dark"] {
 .dark-theme .image-resize {
   filter: brightness(0.8) saturate(80%);
 }
->>>>>>> df1a027 (init)
+@import url('https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@1.0.0/custom.css');

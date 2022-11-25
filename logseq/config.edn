@@ -98,9 +98,7 @@
  ;;  :editor/right           ["ctrl+l" "right"]}
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
-<<<<<<< HEAD
  :ui/hide-block-bullet-path? false
-=======
 
  ;; The app will show those queries in today's journal page,
  ;; the "NOW" query asks the tasks which need to be finished "now",
@@ -136,7 +134,6 @@
                  [(< ?d ?next)]]
     :inputs     [:today :7d-after]
     :collapsed? false}]}
->>>>>>> df1a027 (init)
 
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
@@ -168,11 +165,9 @@
  :journal/page-title-format "E, yyyy/MM/dd"
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["Toki Pona" "Map vs. Territory" "logseq whiteboard with tldraw/save as logseq page" "Logseq whiteboard with tldraw" "思源字体" "Learning Clojure" "nextjs mdx rendering" "Logseq Publish GitHub Action" "jsplay"]}
-=======
  :macros {}
 
  :markdown/version 2
  :feature/enable-journals? false
  :default-home {:page "Contents"}
  :ui/show-brackets? true}
->>>>>>> df1a027 (init)
