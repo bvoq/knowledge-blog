@@ -1,0 +1,8 @@
+- Summaries
+	- For example summarising a movie.
+- Couple -> advertising
+- Military
+- Before after video
+- Bad food company video
+- Advertise videos
+- Fake 3D thingy

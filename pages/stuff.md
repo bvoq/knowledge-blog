@@ -1,0 +1,25 @@
+tags:: ilo
+
+- Simples
+	- Simples are the smallest stuff we know from which other stuff in the [[territory]] is composed, for example in our current world-view this would be quarks, leptons and bosons.
+	- These simples follow rules. It is best to imagine the most *complex possible* universe since it allows for more [mysterious]([[mystery]]) maps.
+		- Rules can be **non-local**
+			- Locality means that only information around a given space-time is needed for a possible prediction.
+			- Non-locality will make predictions a lot harder for physicists but increases mystery.
+		- Rules can be **non-deterministic**
+			- Copenhagen rules
+				- A non-causal decision following a random distribution is taken for each decision of the non-deterministic rule.
+			- Many-worlds
+				- Each possible probability of the rule is simulated. Our universe is simply one such possibility in which we happen to be aware in.
+		- Rules can be **non-discrete**
+			- This is the view that the universe is a probabilistic program. Instead of having one discrete state at a given time, at any point in time the world is a probability density function and rules merely change the probability density function.
+			- Interaction with bigger stuff
+				- It might be that the variations of probability density functions are so small that our consciousness can be summed up into a single state and the qualia is non-differentiable.
+				- If not, you get Schrödinger cat like problems, where the cat is simultaneously alive and dead until the rules change the probability distributions.
+			- Rules can be **retrocausal**.
+				- In a non-discrete world, collapsing the probability function in the present, can change the probabilities in the past to a subset of what they were before the collapse, leading to a subset of probabilities in the present. Possible pasts/presents/futures are destroyed, leaving only a subset. This is akin to the `observe` method in probabilistic programs.
+				- See also the quantum eraser experiment.
+- If there is no smallest stuff, the universe is called **gunky**.
+- If there is no largest stuff, the universe is called **junky**.
+- Stuff can be [[named]].
+- Stuff can be **sortal** or not, meaning it can be counted.

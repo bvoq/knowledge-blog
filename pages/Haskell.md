@@ -1,0 +1,4 @@
+-
+- Liquid Haskell
+	- https://nikivazou.github.io/static/Haskell22/equality.pdf
+	- Extensional equality

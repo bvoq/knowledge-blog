@@ -1,0 +1,21 @@
+- [[High lipoprotein (a)]]
+- [[High levels of the hormone prolactin]]
+- [[Insufficient vitamin D and low calcium]]
+- [[High levels of the hormone prolactin]]
+- [[low BMI]]
+- [[low eosinophil count]]
+- [[low HDL]]
+- [[high level of lipoprotein]]
+- [[low levels of cystatin C]]
+- [[urine pH is high]]
+- [[low calciumvitamin D]]
+- [[Antistreptolysin O (ASO)]]
+- [[progesterone level is high]]
+- [[high prolactin]]
+-
+- [[diet solution]]
+-
+-
+-
+-
+-

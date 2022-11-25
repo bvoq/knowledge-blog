@@ -1,0 +1,5 @@
+- Part of the brain that tries to make you goal oriented.
+	- Anti-correlated to the [[Default mode network]].
+	- More with older people.
+- Mainly the medial prefrontal cortex and its surrounding parts.
+- Suppresses impulses.

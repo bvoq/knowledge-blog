@@ -1,0 +1,3 @@
+- HDL Cholesterol describes cholesterol that is bound to high-density lipoprotein (HDL). Lipoproteins are responsible for transporting cholesterol in the blood. HDL cholesterol is ‘protective’ as it
+  removes cholesterol from the peripheral tissues and transports it back to the liver for removal from the body. A low HDL cholesterol level is undesirable and is associated with increased risk of atherosclerosis (accumulation of cholesterol and fatty material within blood vessel walls) and cardiovascular disease. Obesity, metabolic syndrome (a set of risk factors for diabetes and cardiovascular disease occurring simultaneously), uncontrolled diabetes, smoking, malnutrition
+  and lack of exercise are associated with low HDL cholesterol levels.

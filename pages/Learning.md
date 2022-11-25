@@ -1,0 +1,2 @@
+- Open-loop vs. Close-loop
+- Sensory perception, actual movements, proprioception (knowing where your limbs are).

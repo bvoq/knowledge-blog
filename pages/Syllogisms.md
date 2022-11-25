@@ -1,0 +1,1 @@
+- Logical deduction of propositions

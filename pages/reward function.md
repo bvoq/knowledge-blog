@@ -1,0 +1,19 @@
+- Where does behaviour come from? Behaviour is playing rationalist taboo on mental, genetic or phenomenological information. Instead you focus on observable traits.
+	- Belief: "That upon which an individual is prepared to act." -- Alexander Bain
+-
+- Rationalist taboo on non-brain non-phenomenological causes
+	- Behaviour biology: Why we do what we do.
+- Where is utility stored and how does it get to the choice mechanism?
+- Subjective value seems to be stored in two centers of the brain: Ventral striatum and the medial prefrontal cortex.
+	- Additional brain areas that might be correlated: the orbitofrontal cortex, the dorsolateral prefrontal cortex, the amygdala, the insula, and the anterior cingulate cortex.
+	- According to https://www.lesswrong.com/posts/hN2aRnu798yas5b2k/a-crash-course-in-the-neuroscience-of-human-motivation
+- Tony Robbins belief system
+	- blabla
+- It is useful to write texts as though you have agency.
+- I will now entice your mind with a strategy in the hopes it catches on which will have a ripple effect on your experience. vs. Do this and you'll be happy.
+-
+- $Q(s_t, a_t)  \leftarrow Q(s_t, a_t) + \underset{\text{learning rate}}{\alpha} \cdot ( \underset{\text{reward}}{r_t} + \underset{\text{discount factor}}{\gamma_t} \cdot \underset{\text{estimate of optimal future value}}{\underset{a}{\max}} \: Q(s_{t+1}, a) - \underset{\text{current value}}{Q(s_{t}, a)  )}$
+- Values
+	- Uncertainty / Chaos
+	-
+-

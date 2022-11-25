@@ -1,0 +1,1 @@
+- ![telegram-cloud-photo-size-4-5933709293696170194-y.jpg](../assets/telegram-cloud-photo-size-4-5933709293696170194-y_1657458279561_0.jpg){:width 500}

@@ -1,0 +1,1 @@
+- including at least 2 portions (aportion is approximately 140g) of fish (1 oily) per week and reduce your intake of redand processed meat (e.g. sausages, bacon, cured meats and reformed meat products.

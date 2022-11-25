@@ -1,0 +1,2 @@
+- Dairy and alternatives (i.e. soya)](e.g. milk, cheese, yogurts. Some of these should beincluded in your diet each day. Try to choose lower fat, lower sugar options.)
+-

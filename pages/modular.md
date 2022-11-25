@@ -1,0 +1,5 @@
+- The geometry of Set
+	- $\mathbb{F}_3^4$ for set. For every two distinct points $p, q \in \mathbb{F}_3^4$ there is a third point $r \in \mathbb{F}_3^4$. Every line corresponds to either having none of the same features or all of the same features.
+	- Nicer to put them into vector space.
+	- https://www.youtube.com/watch?v=tHo830obZ38
+	- If you leave out one point (one card from set), the additive inverse of the sum of all cards will give you the left out card.

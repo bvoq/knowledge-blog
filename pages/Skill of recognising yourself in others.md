@@ -1,0 +1,10 @@
+- What others believe about you is not who you are, just as what you believe about yourself is not who you are ([[The map is not the territory]]).
+- Given this dynamic you can do two things:
+	- [[Believe in me, who believes in you]]
+	- Make everyone believe you are more amazing than you actually are.
+		- ![](https://cdn.discordapp.com/attachments/771490979441147915/1008811487483134044/unknown.png)
+-
+- You can recognise what others believe about you.
+-
+- Believe in me, who believes in you.
+- [[Cheryl's trolly problem]]

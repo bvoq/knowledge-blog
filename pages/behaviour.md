@@ -1,0 +1,40 @@
+- Can answer: Why is he sad? Why is XYZ.. etc.
+- FP, etc.
+-
+-
+- Behaviour can be explained through a majority of ways. An answer to what causes a behaviour is best sought out at a more direct layer. If there is no direct explanation, the behaviour can be further explained through lower levels of behaviour.
+- Neuroscience (study of the limbic system)
+	- Limbic system
+	- Central nervous system
+	-
+- Endocrine system (study of hormones)
+	- Neuro-endocrinology
+- Ethologists (study of behaviour)
+- Behavioural genetics
+- Behavioural darwinian evolution
+	- Trait-based.
+	- Natural selection: Traits that make it more adaptive.
+	- Sexual selection: Traits that make you more attractive.
+		- Can be opposed to natural selection. Eg. A firefly that glows more.
+		- Tournament selection
+			- Differences between males and females exaggerated.
+				- Large size
+				- Higher aggression
+				- Higher variability
+				- Sexual preference of strong male.
+			- No twins
+			- Competitive infanticide only if average female inter-birth interval is longer than the average tenure of a high ranking male. Some females miscarry on purpose.
+			- Pseudo-ovulation: Fake being impregnated to get another male to care for the child.
+		- Monogamous selection
+			- Females and males tend to be similar.
+			- Sexual preference of a parental male.
+			- Abandon kids
+	- Kin selection: Helping out relatives.
+		- Logically: 2 brothers for my life, 8 cousins for my life. Even keeping track of family feuds.
+	- Reciprocal altruism
+		- Can occur in all systems and does not require intelligence. Mycelium and
+		- Tit-for-tat strategies make are the most successful.
+			- Vampire bats will share the same nest and feed each other. If you don't, tit-for-tat.
+			- Stickleback fish fight their mirror image. If you add a perpendicular mirror (buddy) it makes the fish fight even harder.
+			- Black hamlet fish: Can switch gender. If someone is too much of a male they won't mate.
+			-

@@ -1,0 +1,5 @@
+- Mathematical resources
+	- [[linear algebra]]
+- Watching
+	- MAL: https://myanimelist.net/profile/realconsumer
+	- IGDB: https://www.igdb.com/users/bvoq/

@@ -1,0 +1,42 @@
+- marina, pier, dock, wharf, quay, jetty, shipside, landing: 码头
+- vessel: 船
+- CRUISING: 巡航
+- Proposes: 海豚
+- Seal:海豹
+- Hooks:挂钩
+- Anchoring : 锚定
+- Gear:齿轮
+- Tide: 浪潮
+- sand bar: 沙洲
+- deeper Spot: 深的点
+- Off gird: 断网
+- diesel engine:: 柴油发动机
+- fuel filter: 燃油滤清器
+- minor dilemma: 小困境
+- digging: 挖
+- flip around:翻转
+- grounding incident: 接地事件
+- reverse:撤销
+- wrench: 扳手
+- gunky: 黏糊糊的
+- spurting: 喷射
+- pad down: 垫下
+- bolt: 螺拴
+- RPM: Revolutions per minute,每分钟转速
+- liveaboard: 船宿
+- moorage fee: 停泊的费用
+- amp: 安培
+- amenities: facilities, 便利设施
+- depreciation: 折旧
+- take on wear and tear: 承受磨损
+- offset: 抵消
+- hardwear: 硬装
+- haul out: 拖出
+- plug in: 插入
+- tiller:  分蘖
+- rudder：舵
+- steering wheel：方向盘
+- cockpit: 座舱
+- mast: 桅杆 (帆中间的支撑杆)
+- Boom: 樯 (与桅杆垂直的杆)
+- Sheet: (a Rope in the sail call Sheet): 拉绳调节

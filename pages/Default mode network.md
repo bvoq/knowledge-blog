@@ -1,0 +1,6 @@
+- Active when we are not doing anything.
+	- Anti-correlated to [[Task network]]
+- Let your brain go wherever it wants to go (decrease focus).
+- Tend to be active at the same time:
+- Dorsolateral prefrontal cortex (two on each side), posterior cingulate cortex, lateral parietal lobe.
+	- On ADHD or little sleep collaborate less well.

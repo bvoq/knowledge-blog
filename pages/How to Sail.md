@@ -1,0 +1,10 @@
+- 1. The relationship with Wind&Boat
+	- ![Screenshot 2022-07-23 at 22.47.54.png](../assets/Screenshot_2022-07-23_at_22.47.54_1658612879402_0.png)
+	- ![Screenshot 2022-07-23 at 22.49.14.png](../assets/Screenshot_2022-07-23_at_22.49.14_1658612957258_0.png)
+	- ![Screenshot 2022-07-23 at 22.49.39.png](../assets/Screenshot_2022-07-23_at_22.49.39_1658612981963_0.png)
+	- ![Screenshot 2022-07-23 at 22.53.58.png](../assets/Screenshot_2022-07-23_at_22.53.58_1658613244000_0.png)
+	- ![Screenshot 2022-07-23 at 22.55.12.png](../assets/Screenshot_2022-07-23_at_22.55.12_1658613316965_0.png)
+	- ![Screenshot 2022-07-23 at 22.57.24.png](../assets/Screenshot_2022-07-23_at_22.57.24_1658613448421_0.png)
+	- ![Screenshot 2022-07-23 at 22.58.42.png](../assets/Screenshot_2022-07-23_at_22.58.42_1658613526786_0.png)
+	- ![Screenshot 2022-07-23 at 22.59.04.png](../assets/Screenshot_2022-07-23_at_22.59.04_1658613550408_0.png)
+	-

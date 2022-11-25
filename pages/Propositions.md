@@ -1,0 +1,5 @@
+- In modern logic, propositions are made from [[objects]], [[predicates]] and quantifiers over classes of objects.
+- Examples:
+	- $\forall x \in \text{men} \: . \: \text{mortal}(x)$
+	- $\text{Socrates} \in \text{men}$
+	- $\text{mortal}(\text{Socrates})$ (follows from the other two via syllogism).

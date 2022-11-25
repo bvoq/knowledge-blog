@@ -1,0 +1,2 @@
+- Low calcium can occur with hypoparathyroidism (a condition where the parathyroid glands are under active), vitamin D deficiency and malabsorption of nutrients. Please see the‘Bone Health’ section of your report for more information.
+  title:: low calciumvitamin D

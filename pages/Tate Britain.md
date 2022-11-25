@@ -1,0 +1,1 @@
+- ![telegram-cloud-photo-size-4-5933709293696170189-y.jpg](../assets/telegram-cloud-photo-size-4-5933709293696170189-y_1657457700649_0.jpg)

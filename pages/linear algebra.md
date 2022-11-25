@@ -1,0 +1,23 @@
+- Solving for
+	- Change of basis
+		- https://www.youtube.com/watch?v=bI-FS7aZJpY
+	- For general solution
+		- In Z_2: https://www.youtube.com/watch?v=9aZsABF-Vj4&list=PLnQX-jgAF5pTkwtUuVpqS5tuWmJ-6ZM-Z&index=12 #modular
+		- https://timodenk.com/blog/cubic-spline-interpolation/
+- representation for group theory!
+- as types:
+	- sum type (OR)
+	- product type
+		- meters : Nat
+		- kg : Nat
+		- s : Nat
+	- moproduct
+		- freq: Nat (s^-1) [s^-1]
+-
+- Number
+- zero
+- succ
+- equal
+- etc.
+-
+-

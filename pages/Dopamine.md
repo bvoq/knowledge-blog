@@ -1,0 +1,8 @@
+- It is a neuromodulator, causing:
+	- Narrowing of our visual & auditory focus (tighter frustrums).
+	- Conductor that anti-correlates [[Default mode network]] and [[Task network]] (puts them out of phase).
+		- Ritaline
+		- Low-dopamine hypothesis of ADHD
+-
+- Dopamine creates a heightened state of focus, tends to contract our visual world  and tends to make us pay attention to outside our skin (exteroception).
+-

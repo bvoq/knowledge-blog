@@ -1,0 +1,42 @@
+- Used to be called ADD (attentive deficit disorder), first coined in 1903. Hyperactivity is much better.
+- Diagnosis
+	- Genetical component
+	- Unrelated to IQ, EQ
+	- Can have high levels of emotionality.
+	- Phenotypes
+		- Attention is noticed perception.
+		- Impulse control is putting the blinders on other sensory information.
+		- Hyper focus on something they enjoy!
+		- Challenges with time perception and underestimate task times, except for deadlines if they are severe.
+		- Spatial organisation is reduced, tends to use piling system that only makes sense to them but can't use it for their own tasks, because their overall plan does not work in the first  place.
+		- Working memory is disrupted, also related to [[Frontotemporal dementia]] and [[age-related cognitive decline]].
+		- Can be annoyed easily by mundane things they are not interested in.
+- Have to [motivate]([[Motivation]]) themselves to get things done and that they are curious about! TODO add equation of motivation.
+- Neuroplasticity is much higher.
+- Low-dopamine hypothesis of ADHD - 2015.
+	- You are now better at things you don't care about:
+		- Tends to be used by people who self-medicate using 6 cups of caffeine, tea, nicotine, cocaine, masturbation, sugary foods and amphetamines.
+	- Cocaine (methamphetamine), very habit forming. Net effect is similar.
+	- Increase: Epinephrine or Norepinephrine (adrenaline, noradrenaline),
+- Oligoantigenic diet -> Test which foods you have antibodies for (mildly allergic).
+	- Elimination of simple or high sugars help ADHD. Oligoantigentic diet is controversial.
+- Mediating treatments
+	- Ritaline:
+		- Similar to amphetamines / speed.
+		- Treats: ADHD and Narcolepsy.
+		-
+	- Adderall:
+		- Amphetamines and
+		- Increase: Dopamine
+		- Increase: Epinephrine or Norepinephrine (adrenaline, noradrenaline
+	- Modafinil: Increase dopamine
+- Modulating treatment
+	- 1000mg EPA component of Omega-3, liquid fish oil or capsules.
+	- Oligoantigenic diet (eliminating foods that have antibodies).
+- Attentional blinks are easy to understand if you think about Where's Waldo tasks.
+	- If you find Walter there is a small celebration of neurochemicals that make you unable to attend (blinked)!
+	- Be on the lookout for letters R and Z in a string of letters.
+- [[Dopamine]] conducts (anti-correlates) the [[Default mode network]] and the [[Task network]].
+- Tends to correlate the [[Default mode network]] and the [[Task network]].
+- Dopamine creates a heightened state of focus, tends to contract our visual world  and tends to make us pay attention to outside our skin (exteroception).
+- Dopamine

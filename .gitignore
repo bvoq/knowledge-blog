@@ -1,0 +1,5 @@
+logseq/bak
+logseq/.recycle
+logseq/logseq/pages-metadata/*
+logseq/pages-metadata.edn
+.DS_Store

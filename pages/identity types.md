@@ -1,0 +1,8 @@
+- Aka. propositional equality
+- The simplest element of the type is $refl$.
+- Syntactic rule:
+	- $\dfrac{\Gamma \vdash A \text{ type} \qquad \Gamma \vdash M : A \qquad\Gamma \vdash N : A}{\Gamma \vdash Id_A(M, N) \text{ type}} \:(\text{Id-F})$
+- Introduction
+	- $\dfrac{\Gamma \vdash M : A}{\Gamma \vdash \text{refl}_A(M) : Id_A(M,N)} \:(\text{Id-I})$
+- Path induction is the
+-

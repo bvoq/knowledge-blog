@@ -1,0 +1,3 @@
+- The instinct of self-preservation is the main driver.
+- Driven by our lymphatic system.
+- Behaviour is explained through behavioural biology at different levels.

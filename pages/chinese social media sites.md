@@ -1,0 +1,143 @@
+tags:: ma, Sonko, lipu
+
+- Internal community
+	- ![image.png](../assets/image_1668861161723_0.png)
+	- WeChat
+		- ![WeChat](https://www.un.org/sites/un2.un.org/files/2021/04/wechat-logo.png){:width 200}
+		- Chat functionality
+		- Lucky money
+		- Payment services
+		- Tencent-owned
+	- QQ
+		- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Oxygen-actions-im-qq.svg/1200px-Oxygen-actions-im-qq.svg.png){:width 200}
+		- More young people
+		- Tencent-owned
+		- Older than WeChat
+		- Telegram-like games
+		- https://pypi.org/project/telegram-qq-bot/
+- Community
+	- ![image.png](../assets/image_1668861251431_0.png)
+	- Weibo
+		- ![Weibo](https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sina_Weibo.svg/1920px-Sina_Weibo.svg.png){:width 200}
+		- Chinese Twitter
+		- News-like
+		- Promotion
+-
+	- Xiaohongshu
+		- ![](https://upload.wikimedia.org/wikipedia/commons/c/c1/XiaohongshuLOGO.png){:width 200}
+		- aka. little red book
+		- Originally female-oriented for skin care with shop.
+		- Share experience, how-to
+		- Life story, not daily life
+		- [Our account](https://www.xiaohongshu.com/user/profile/6299045a0000000021027c79?xhsshare=CopyLink&appuid=6299045a0000000021027c79&apptime=1668861087)
+	- Douban
+		- ![](https://play-lh.googleusercontent.com/wq_uYqchjgPJ-JogCFcA0hrSL_qIggRwmU3GICto_Kq6Qo1PTeeD4zq2yIs6TJJm_Q){:width 200}
+		- Movie, book, music, rating.
+		- Group based on interest (discord group, local community)
+			- https://www.douban.com/group/explore
+	- Zhihu
+		- ![Zhihu](https://avatars.githubusercontent.com/u/409513?s=280&v=4){:width 200}
+		- Mix between Quora and Medium.
+	- Hupu
+		- ![](https://pbs.twimg.com/profile_images/894800186521796608/Jv4A8p06_400x400.jpg){:width 200}
+		- Sport
+		- E-Sport: https://gg.hupu.com
+- Online video platform
+	- ![image.png](../assets/image_1668861920617_0.png)
+	- Tencent video
+		- ![Tencent video](https://seeklogo.com/images/T/tencent-video-icon-logo-780F21E542-seeklogo.com.png){:width 200}
+		- https://v.qq.com/
+		- Series, documentary, tv, animation, etc
+		- Now: Youtube functionality
+	- Iqiyi
+		- ![](https://play-lh.googleusercontent.com/L40FnQ8nF8zRtUdALz9b23JirsxYA5-0_fkRUlFBMymud09ctBCFrNui4l-ES_V6Uw){:width 200}
+		- Drama series, free with subscription model
+	- Bilibili.tv
+		- ![Bili Bili](https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Bilibili_logo.svg/2880px-Bilibili_logo.svg.png){:height 200}
+		- Similar to Nico nico douga in Japan or the good Youtube.
+	- MangoTV
+		- ![mangoTV](https://play-lh.googleusercontent.com/YIrKMxCqjspTBeie5dc-L8oPSCV1MvcgMimNZNHoOHkz31-jCqYalySY4HPxGgX1wH7k=w240-h480){:width 200, :height 208}
+		- Similar to Netflix
+- Short video
+	- ![image.png](../assets/image_1668862751553_0.png)
+	- Douyin
+		- Short videos, all types.
+		- ![Douyin vs TikTok - The Differences You Never Knew (Updated 2022) -  AdChina.io](https://lh4.googleusercontent.com/9R7m1rHP5P2LJhLQZvU0QRqIkm_XaO7_CBPoxR1hFnOAa_ASF3mJTRg9WGywd0okUl6BZPuGbIN1UCIwBlnKoqH2ntVNGQCA3dWsNjshsXotfrqiv9i37mIc3B1ZB8Rqhe4jmi5Z)
+		- Kuaishou
+			- ![](https://companieslogo.com/img/orig/1024.HK-ff7bec3c.png?t=1616090817){:width 200}
+			- Country-side TikTok.
+- Commercial apps
+	- ![image.png](../assets/image_1668863057229_0.png)
+	- Tmall
+		- ![](https://img.alicdn.com/imgextra/i2/O1CN01a69z6z1hJklCkBqOU_!!6000000004257-2-tps-174-106.png){:width 200}
+		- ![](https://play-lh.googleusercontent.com/RkfhQqB5xJ-qSt6boZgj8-bgxXYPrZWUtwGRD-iRwY0elpNho90EMMVb43nsev3fJaQ){:width 200}
+		- High-quality commercial app
+		- Quality control
+	- Taobao
+		- ![Taobao, china, chinese, alibaba icon - Free download](https://cdn4.iconfinder.com/data/icons/chinas-social-share-icons/256/cssi_taobao-512.png){:width 200}
+		- Cheap and fake products
+	- JingDong
+		- ![JingDong](https://upload.wikimedia.org/wikipedia/en/c/c4/JD.com_logo.png){:width 200}
+		- High-quality commercial app
+		- One-day shipping
+		- Electrical appliances at beginning
+		- Services online
+	- XianYu
+		- ![XianYu](https://play-lh.googleusercontent.com/eaX5GSrLgAvCTKAe8N0baDkKA0gJ3siyG9X28sfmSO8yBmKVfPDQyJ3y_AvcCr8DSYU=s96){:width 200}
+		- Second-hand products
+		- Also second-hand luxury products
+	- Pin Duo Duo
+		- ![PinDuoDuo](https://play-lh.googleusercontent.com/Fc_2kZ_9IDq5tPGeHVga9JJfPryEYSEPsavqG1bfvRCb3WV1C4HwVijywU7Y090hErA=w480-h960){:width 200}
+		- Together, more savings, more fun.
+		- Spread information on discounts.
+		- Country-side and client bridge.
+		- But unhealthy/cheap food
+- Knowledge platform
+	- ![image.png](../assets/image_1668864563347_0.png)
+	- Dedao
+		- ![Luoji Siwei Logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/e4epcojb01uqvxgiixyq){:width 200}
+		- Free and paid courses
+	- WeChat reading
+		- ![Icon image](https://play-lh.googleusercontent.com/68uKqs4VBQ5Sl2f7kqGmy1sLYzezmAn_LrV993b4Vw6vn5gAYRk0mGhqC3ZnLnzeU0A=w240-h480){:width 200}
+		- Freemium reading model
+		- Competition with reading, social, comment.
+	- FanDeng Dushu
+		- ![](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/69ae13815d84f0787a78){:width 200}
+		- Started as a reading club and idea is to share books.
+	- Baicizhan
+		- ![Baicizhan Logo](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/tty7z6hmxzbzm8nvcktn){:width 200}
+		- Book
+	-
+	-
+- Music platform
+	- ![image.png](../assets/image_1668865310168_0.png)
+	- QQ Music
+		- ![QQMusic](https://upload.wikimedia.org/wikipedia/en/f/f3/QQ_Music_Logo.png)
+		- Tencent and Spotify based music distribution brand.
+		- Recommendation, everything
+		- Free, except for download.
+	- Wang Yi Yun (English: NetEase Cloud Music)
+		- https://music.163.com
+		- Singer famous
+		- High quality music
+		- Free, except for download.
+- Gaming platform
+	- ![image.png](../assets/image_1668865676860_0.png)
+	- MOBA games
+		- wangzherongyao
+	- Counter-strike game
+		- 使者召唤 游戏
+	- Yuanshen
+		- Genshin-impact
+- Live streaming platform
+	- ![image.png](../assets/image_1668865970787_0.png)
+	- Douyu
+		- ![](https://avatars.githubusercontent.com/u/61232347?s=200&v=4){:width 200}
+		- Gaming, outisde
+- FM
+	- ![image.png](../assets/image_1668866689320_0.png)
+	- Ximalaya
+		- https://www.ximalaya.com
+	- Xiaoyuzhoufm
+		- https://www.xiaoyuzhoufm.com
+	-

@@ -1,0 +1,135 @@
+tags:: ale, ilo, nimi
+
+- The territory or shared reality is a [[space-time]] construct consisting out of [[stuff]] from which our experiences are derived.
+- Seed hypothesis
+	- Our territory is a derivative of a computer program with a predetermined seed that generates our territory deterministically over time.
+- Many world hypothesis
+	- Our territory is a derivative of a computer program that runs all possible future sequences. Our specific timeline needs more and more information to discern it from other possible timelines, increasing the entropy (information amount).
+- We share common [[experiences]] of that stuff, we sense it, indirectly through sense organs.
+- Ontological realists: We can cut up all shared experiences of stuff in a clear meaningful way.
+- Ontological antirealism: We can cut up our shared experiences of stuff in a useful way but it is not the only way.
+- Mereology is the study of the **special composition problem**. When does stuff become a thing we can name?
+- We  name stuff, because it enables us to exchange [maps]([[Map vs. Territory]]).
+	- A more mild version of this claim is: "Language is use." – Wittgenstein
+	- We learn that swans are swans by others referring to them as swans:
+	  collapsed:: true
+		- ![nick-fewings-UvElZsr3ND8-unsplash.jpg](../assets/nick-fewings-UvElZsr3ND8-unsplash_1659352855328_0.jpg){:width 500}
+	- You might be inclined to call every large white feathered biped with a long neck a swan by definition, but this is not how we categorise things. When you see a bird that looks identical to a swan except for its color you would understand the term 'black swan'.
+	  collapsed:: true
+		- ![Black_swan_jan09.jpg](../assets/Black_swan_jan09_1659353780999_0.jpg)
+- Problems to address:
+	- Ontological parasites:
+		- A bikini needs both a breast covering and a bottom covering part. If one is destroyed, does the name bikini cease to be meaningful to describe the piece?
+		- A donut hole needs the donut in order to exist. Its existence depends on the donut.
+		- A trog has a tree part and a dog part. When the dog moves away, when does it cease to exist?
+	- Over-determination:
+		- Composites are often causally redundant.
+			- Eg. The function of a kettle can be explained without composites. We can call the combination of turning on the stove, gas heating up the water, **boil-o**, however it is causally redundant to give it a name, boil-o.
+	- Problem of vagueness:
+		- At what size does a land mass stop being called an island and at what size does a drink turn into a shot?
+	- Is it a muffin or a chihuahua?
+		- ![C9OQH-2w3g-1Ayj08mjYLwlpI46QAbxgtyqa.jpeg](../assets/C9OQH-2w3g-1Ayj08mjYLwlpI46QAbxgtyqa_1659353387020_0.jpeg)
+	- Problem of the many / Over-counting problem
+		- How many clouds are there? There are a lot of boundaries to draw and it is not clear where to draw it.
+	- Sorites Sequence
+		- Taking away a bit of sand from a heap of sand every time. At what point does the heap ceases to be a heap?
+		- Stuff survives the Sorites sequence. You will be able to take away more and more stuff until there is no more stuff. At that point the Sorites sequence is terminated.
+	- Replacement sequences
+		- The ship of Theseus is an old ship whose planks are progressively replaced over the course of many years and stored in a warehouse. At some point all the old planks are replaced by new planks. Is it still the ship of Theseus? What if you rebuild the ship with the old parts? Do you get another ship of Theseus?
+		- *Mahāprajñāpāramitopadeśa* is an ancient Buddhist text describing a demon that slowly replaces each atom, each part of you with a new part. Your leg is replaced with a new leg, your atoms in the brain are slowly replaced, etc. At the end, are you still you? Also appears in Chinese: https://en.wikipedia.org/wiki/Da_zhidu_lun
+-
+-
+- Solutions
+	- Mereological Deflationism
+		- There are just [[simples]] made from a seed and everything else is an ontological parasite.
+	- A special exception is made for things
+	-
+-
+-
+-
+- Organicism
+	- Simples that are part of a living organism that maintain the organism while shedding some parts and acquiring new parts all while remaining individuated from other organisms, exist.
+	- People exist, but none of them wear clothes.
+- Deflationism:
+	- We all agree that there are [[simples]] and that they are shaped into a chair and we call it a chair.
+	- We don't need anything to exist but the simples to explain behaviour, composites are causally redundant.
+	- However it becomes useful to introduce vague boundaries for explanation.
+	- A chair is simples arranged chair-wise.
+	- However, the function of everything can be explained through the function of the simples.
+-
+-
+-
+-
+-
+- Some nice examples:
+  In toki pona there are only roughly 120 words and you can speak it only with stuff:
+  ilo kili jelo palisa = long yellow fruity thing (the order is reversed from english, similar to big blue cheeseburger)
+  you would say kili jelo palisa in toki pona, but nothing hinders you from adding ilo.
+  The order matters tremendously:
+  ilo laso mi = my blue thing
+  ilo mi laso = blue my thing (could be a blue filtered picture of my thing, that belongs to Fred).
+- Another language has no adjectives at all.
+  Instead of saying yellow flowery stuff, you would say stuff that yellows and flowers.
+- Nomenclature
+	- Ontological realists: We can cut up all shared experiences in a clear meaningful way.
+	- Ontological antirealists: We cut up our shared experiences in a useful way but it is not the only way.
+	- Mereology
+		- Mereological Universalism
+			- Any assortment of things 'exists' but not everything has a name.
+		- Mereological Eliminativism
+			- Peter Van Inwagen (Material Beings) believes that there is no chair, just matter, atoms, arranged *chair-wise*.
+			- However people exist, since people believe they themselves exist and to Peter it makes little sense for something to say it exists if it does not.
+		- Organicism
+			- Simples that are part of a living organism that maintain the organism while shedding some parts and acquiring new parts all while remaining individuated from other organisms, exist.
+			- People exist, but none of them wear clothes.
+		- Deflationism:
+			- We all agree that there are [[simples]] and that they are shaped into a chair and we call it a chair.
+			- We don't need anything to exist but the simples to explain behaviour, composites are causally redundant.
+			- However it becomes useful to introduce vague boundaries for explanation.
+			- A chair is simples arranged chair-wise.
+			- However, the function of everything can be explained through the function of the simples.
+		- Bikini
+			- A bikini consists of two parts that do not even touch each other.
+		- Trog
+			- A trog has a tree part and a dog part.
+		- Mereological Universalism
+			- Any assortment of things 'exists' but not everything has a name.
+		- Mereological Eliminativism
+			- Peter Van Inwagen (Material Beings) believes that there is no chair, just matter, atoms, arranged *chair-wise*.
+			- However people exist, since people believe they themselves exist and to Peter it makes little sense for something to say it exists if it does not.
+				- *Mahāprajñāpāramitopadeśa* is an ancient Buddhist text describing a demon that slowly replaces each atom, each part of you with a new part. Your leg is replaced with a new leg, your atoms in the brain are slowly replaced, etc.
+				  At the end, are you still you?
+			- Organicism
+				- Simples that are part of a living organism that maintain the organism while shedding some parts and acquiring new parts all while remaining individuated from other organisms, are a thing.
+				- Stuff is not sortal. How many orange stuff was there in a video. (Thomasson)
+				- People exist, but none of them wear clothes.
+		- Deflationism:
+			- We all agree that there are [[simples]], atoms and that they are shaped into a chair and we call it a chair.
+			- There are no chairs, there are simply simples arranged chair-wise, which is a useful distinction we stipulate.
+			- We need predicates on these simples.  Medium-sized rigid according to human strength stuff there is.
+		- Sortal properties of stuff:
+			- These are experiences which we can count how many there are and know when there is or isn't one.
+			- Water is not a sortal, gallons of water is. Potatoes are sortal.
+			- The ship of Theseus is too *neutral* to be sortal, however *ships registered by the officials under the name Theseus* is sortal.
+		- There don't have to be vague objects for vague properties to be useful like heaps.
+		- Ontologically innocent
+			- Is there anything in the fridge? No. Wrong! There is an eyelash in the fridge and full of air.
+		- Over-determination:
+			- Composites are causally redundant.
+			- The function of a kettle can be explained without composites. We can call the combination of turning on the stove, gas heating up the water, **boil-o**, however it is causally redundant to give it a name, boil-o.
+		- Problem of vagueness of ordinary terms:
+			- At what size does a land mass stop being called an island and at what size does a drink turn into a shot?
+		- Problem of the many / Over-counting problem
+			- How many clouds are there? There are a lot of boundaries to draw and it is not clear where to draw it.
+		- Sorites Sequence
+			- Taking away a bit of sand from a heap of sand every time. At what point does the heap ceases to be a heap?
+			- Stuff survives the Sorites sequence. You will be able to take away more and more stuff until there is no more stuff. At that point the Sorites sequence is terminated.
+			- Island
+		-
+- Some nice examples:
+	- big blue cheeseburger ≠ blue big cheeseburger.
+- Thing is 'swany'.
+- incar
+- island
+- heap of sand
+-

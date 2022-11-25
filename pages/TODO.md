@@ -1,0 +1,8 @@
+- Todo is one of the task management [[types]]. Use `/A` `/B` or `/C` to filter by priorities.
+- [[TODO]] [[DOING]] [[DONE]]
+- [[LATER]] [[NOW]] [[DONE]]
+- [[WAITING]] [[CANCELED]]
+- ![](https://cdn.discordapp.com/attachments/991777568007131187/1004162506740215868/296391133_151507840873464_4522077360550368563_n_1.jpg){:width 200}
+- Generic todos:
+	- TODO https://github.com/kaushalmodi/dotfiles/blob/master/logseq/logseq/config.edn
+-

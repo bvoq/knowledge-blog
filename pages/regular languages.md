@@ -1,0 +1,3 @@
+- Büchi-Elgot-Trakhtenbrot theorem
+	- https://www.mimuw.edu.pl/~bojan/slides/slajdomat/alg-course/01._Automata_and_logic_for_finite_words/?step=118
+-

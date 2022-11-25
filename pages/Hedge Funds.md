@@ -1,0 +1,3 @@
+- Markets that can be hedged are *created*. Hedge funds invest in hydrogen as opposed to solar, precisely because it can be hedged better. Hedge funds prefer more markets over less, because they profit from flattening a market. More markets are good for them, which is nice.
+- https://www.bbc.co.uk/blogs/thereporters/robertpeston/2010/02/should_hedge_funds_be_disenfra.html
+- I would like to believe that most employees working at Hedge Funds are oblivious to what they are doing and don't understand it necessarily.

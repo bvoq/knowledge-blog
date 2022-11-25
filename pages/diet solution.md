@@ -1,0 +1,10 @@
+- [[Fruit and vegetables]]
+- [[Potatoes, bread, rice and other starchy carbohydrates]]
+- [[Dairy and alternatives (i.e. soya)]]
+- [[Beans, pulses, fish, eggs, meat and other proteins]]
+- [[Oil and spreads]]
+- [[others]]
+-
+-
+-
+-

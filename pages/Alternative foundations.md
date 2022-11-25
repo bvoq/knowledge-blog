@@ -1,0 +1,28 @@
+- Idealism
+	- Refutes the first axiom, the realist axiom, of the [[Foundation]]. We are merely a sequence of experience without the territory.
+	- Plato
+		- Plato claims that the sequence of experiences is all there is and that we merely remember more and more of the ideal sequence of experience.
+		- Plato claims that we have all experiences of the territory within us. We merely remember them when we experience them.
+	-
+	-
+	-
+	- Rationalists
+		- The rationalists reject the five senses as a foundation for mathematics as they can be tricked. Relying only on memory and ideas they can create true statements about the territory.
+		-
+		- that follows some laws.
+		- Experience consists out of the five senses, memories, etc.
+		- Descartes got his inspiration from a fly on his bedroom for the cartesian coordinate system. Clearly they do not reject sense experience as a source of inspiration but nonetheless claim it is possible to do mathematics without it. Truth however is always in relationship with the
+	- Reductionists
+		- Are rationalists that want to reduce it to simple phenomena.
+	- Brouwer
+		- We need experiences as they form our mathematical intuition. No surprise as a topologist.
+	- Territorists
+- Territorists:
+	- They refute the second axiom of experience of the [[Foundation]].
+	- Experience is said to not only be an illusion but does not exist.
+	- Realist reductionism / Functionalism:
+		- "We need more automation." - jan Kewin #quote
+		- The realist reductionist program tries to take out more and more of the human experience. The first time this happened was with the invention of writing. Through writing we could stop relying on our memory and can instead rely on the external world.
+		- We can create machines in the world that can for example do image detection without the need of experiences.
+	-
+	- Most people do not refute experiences completely but can

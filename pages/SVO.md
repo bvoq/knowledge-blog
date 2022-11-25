@@ -1,0 +1,12 @@
+- Subject verb object is common language pattern.
+- English has SVO: $\underset{\text{subject}}{\text{Kevin}}$ $\underset{\text{verb}}{\text{eats}}$ $\underset{\text{object}}{\text{a banana}}$.
+	- In English the object can be dropped if it is clear from context.
+		- $\underset{\text{subject}}{\text{Kevin}}$ $\underset{\text{verb}}{\text{eats}}$.
+- [[Toki Pona]] has SVO: $\underset{\text{subject}}{\text{jan kewin}}$ li $\underset{\text{verb}}{\text{moku}}$ e $\underset{\text{object}}{\text{kili palisa jelo}}$.
+	- In Toki Pona you can have a language without objects.
+		- ilo kili palisa jelo (yellow long fruity thing)
+- Japanese has SOV: $\underset{\text{subject}}{\text{ケビン}}$ は $\underset{\text{object}}{\text{バナナ}}$ を $\underset{\text{verb}}{\text{食べる}}$
+	- In Japanese the subject can be [dropped](https://en.wikipedia.org/wiki/Pro-drop_language) if it is clear from context.
+		- $\underset{\text{object}}{\text{バナナ}}$ を $\underset{\text{verb}}{\text{食べる}}$
+- You can have a language without [[properties]].
+	- The flower 'yellows' instead of being yellow.
