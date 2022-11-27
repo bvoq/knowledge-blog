@@ -4,7 +4,7 @@ tags:: ale, ilo, nimi
 - Seed hypothesis
 	- Our territory is a derivative of a computer program with a predetermined seed that generates our territory deterministically over time.
 - Many world hypothesis
-	- Our territory is a derivative of a computer program that runs all possible future sequences. Our specific timeline needs more and more information to discern it from other possible timelines, increasing the entropy (information amount).
+	- Our territory is a derivative of a computer program that runs an ever branching possible future sequences. Our specific timeline needs more and more information to discern it from other possible timelines, increasing the entropy (information amount).
 - We share common [[experiences]] of that stuff, we sense it, indirectly through sense organs.
 - Ontological realists: We can cut up all shared experiences of stuff in a clear meaningful way.
 - Ontological antirealism: We can cut up our shared experiences of stuff in a useful way but it is not the only way.

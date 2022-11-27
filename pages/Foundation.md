@@ -1,4 +1,4 @@
-- First, we must accept or at least believe it is probable that there is a **shared reality**, also known as the [[territoryold]].
+- First, we must accept or at least believe it is probable that there is a **shared reality**, also known as the [[territory]].
 - Second, we must accept that we are a **sequence of [[experiences]]** (over [time]([[space-time]])) in that **territory**.
 	- Note that experiences are derived from the shared reality. The experiences are not the territory but are merely created from it. Just like a traffic light turns red as a consequence of the microcontroller of the traffic light system. Just like trace properties are derivatives of a running computer program.
 	- The will is a particular experience and is therefor an illusion as well. However, it is not useful to believe that there is no free will. What makes you answer uniquely compared to others is your genetic footprint and people around you.
