@@ -1,0 +1,17 @@
+- Pig bone broth base
+-
+-
+-
+- pork slices
+- narutomaki
+- spring onion
+- fish oil
+- ca sai spinach
+- nori.
+- Tonkotsu ramen = pork bone soup
+- Shoyu ramen
+	-
+- Yokohama Iekei Ramen Samurai Ikejiri
+- Base:
+	- Pork broth (2:4) chicken broth
+	- 1 tbsp mirin, 1 tbsp sake, 0.5 tbsp sesame oil.

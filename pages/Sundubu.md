@@ -1,0 +1,3 @@
+- Tofu, minced meat, egg, hot pepper paste for broth.
+- https://upload.wikimedia.org/wikipedia/commons/0/02/Sundubu-jjigae.jpg
+-

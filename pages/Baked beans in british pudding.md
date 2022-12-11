@@ -1,0 +1,2 @@
+- Baked beans in yorkshire pudding and cheese.
+- ![photo_2022-11-26 21.27.13.jpeg](../assets/photo_2022-11-26_21.27.13_1669494468638_0.jpeg)

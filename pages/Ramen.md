@@ -1,0 +1,21 @@
+- [[Shio ramen]]
+- [[Tonkotsu ramen]]
+- Noodle soup, pork slices, narutomaki, spring onion, fish oil, ca sai spinach, nori.
+- Tonkotsu ramen = pork bone soup
+- Generic ingredients:
+	- Dashi
+		- Made from:
+		- Kombu
+		  collapsed:: true
+			- https://upload.wikimedia.org/wikipedia/commons/1/10/Kombu.jpg
+		- Katsuoboshi/bonito flakes (fish oil).
+		  collapsed:: true
+			- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Katsuobushi_02.jpg/1920px-Katsuobushi_02.jpg
+-
+- Shoyu ramen
+	-
+- Yokohama Iekei Ramen Samurai Ikejiri
+- Base:
+	- Pork broth (2:4) chicken broth
+	- 1 tbsp mirin, 1 tbsp sake, 0.5 tbsp sesame oil.
+-

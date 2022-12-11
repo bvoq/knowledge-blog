@@ -1,0 +1,1 @@
+- Kalamata olives, cucumber, baby tomato, feta cheese, paprika, red shallots.

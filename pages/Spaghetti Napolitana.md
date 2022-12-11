@@ -1,0 +1,4 @@
+- Spaghetti Napolitana
+- Spaghetti cooked in garlic and salt water.
+- Add shrimps (or bacon), tomato sauce, cream, basil, lemon.
+- Optional: Tabasco or soy sauce

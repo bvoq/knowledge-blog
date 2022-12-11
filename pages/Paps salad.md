@@ -1,0 +1,3 @@
+- Watermelon cubes, cucumber, avocado, baby tomatoes, kalamata olives, paprika, red shallots.
+- With the Old El Paso guacamole powder.
+- https://cdn.competec.ch/images2/4/9/9/213640994/213640994_xxl.jpg

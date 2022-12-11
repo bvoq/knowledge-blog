@@ -1,0 +1,2 @@
+- Kabeljau fish or seared salmon with butter and sauce of honey, soy sauce mix + sesame seeds, and rice with leek and spring onions.
+	- Kabeljau 2 minutes each side, then sauce on it, lid on the pan and put in the oven.

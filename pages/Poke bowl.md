@@ -1,0 +1,3 @@
+- Thuna or salmon slightly seared on rice or quinoa with
+- fruits like mango, pineapple, avocado, pomegranate seeds.
+- ![photo_2022-11-26 21.13.30.jpeg](../assets/photo_2022-11-26_21.13.30_1669493902177_0.jpeg)

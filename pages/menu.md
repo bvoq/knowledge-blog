@@ -4,5 +4,36 @@ tags:: moku
 - Moku pi jan miya en jan kewin li olin.
 -
 - Juice
-	- Celery or carrot juice.
+	- Mild orange juice diluted with water.
+	- Celery juice
+	- Carrot juice.
+- Joghurt
+	- Vermicelles joghurt
+	- Stichfest kafe joghurt
+	- Pana cota
+- [[Tortellini with spinach]]
+- [[Spaghetti Napolitana]]
+- [[Avocado toast]]
+- [[Turkey slice with frozen veggies ala Mia]]
+- [[Hainenese hotpot]]
+- [[Celery with chicken]]
+- [[Shrimp with garlic and soy sauce]]
+- [[Poke bowl]]
+- [[Greek salad]]
+- [[Paps salad]]
+- [[Burger]]
+- Fish
+	- [[Seared fish]]
+	- [[Fish with lemon]]
+- Spicy food
+	- [[Sundubu]]
+	-
+- [[Melon with prosciutto crudo]]
+- [[Cooked vegetables]]
+- [[Baked beans with sausage]]
+- [[Baked beans in british pudding]]
+- [[Shio ramen]]
 -
+-
+- Chicken with [[Hainan sauce]].
+	- ![photo_2022-11-26 20.56.00.jpeg](../assets/photo_2022-11-26_20.56.00_1669492636165_0.jpeg)
