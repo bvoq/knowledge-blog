@@ -1,0 +1,6 @@
+- Organisation
+	- Before: Have my own organisation and put things into my pocket.
+	- After: First ask miya when searching something.
+- Outdoors
+	- Before: No motivation
+	- After:
