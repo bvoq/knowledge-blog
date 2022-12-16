@@ -5,7 +5,6 @@ tags:: jan
 	  collapsed:: true
 		- ![image.png](../assets/image_1660168016128_0.png){:width 400}
 	- .. pi moku e kiwen moli pi soweli.
-	  collapsed:: true
 		- ![image.png](../assets/image_1660168050586_0.png)
 	- .. pi pilin e pona.
 	  collapsed:: true
