@@ -1,6 +1,8 @@
 - memes are ideas that become infectious, viral.
 	- christmas lights in
-- memeplexes are categories of memes for which people can spin their own ideas on
-	- christmas lights
-- meme diamonds is a convergence of a memeplex into a few distilled points.
+- memeplexes
+	- are categories of memes for which people can spin their own ideas on.
+	- Example: My christmas lights.
+- memetic diamonds
+	- is a convergence of a memeplex into a few distilled points.
 	- cottage core
