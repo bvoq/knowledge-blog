@@ -1,2 +1,7 @@
 - https://www.youtube.com/watch?v=SkGRVvA23qI&t=106s
--
+- dynamic soaring
+- Realistic
+	- Laser accelerated minicrafts
+	- Antimatter engine
+	- Dynamic soaring
+- https://en.wikipedia.org/wiki/Magnetic_sail
