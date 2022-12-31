@@ -1,0 +1,2 @@
+- memes are ideas that become infectious, viral.
+- memeplexes are categories of memes
