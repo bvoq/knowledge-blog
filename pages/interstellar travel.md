@@ -3,5 +3,7 @@
 - Realistic
 	- Laser accelerated minicrafts
 	- Antimatter engine
-	- Dynamic soaring
+	- Magnetic sail
+		- Dynamic soaring on termination shock.
+		- 2% speed of light possible.
 - https://en.wikipedia.org/wiki/Magnetic_sail
