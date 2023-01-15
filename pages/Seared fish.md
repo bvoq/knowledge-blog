@@ -1,6 +1,5 @@
 - Kabeljau fish or seared salmon with butter and sauce of honey, soy sauce mix + sesame seeds, and rice with leek and spring onions.
-	- Kabeljau 2 minutes each side, then sauce on it, lid on the pan and put in the oven.
+	- Kabeljau 2 minutes each side, then sauce on it, lid on the pan and put in the oven for a few minutes.
 - Alternatively use a miso glaze:
-	- Sesame oil, soy sauce, honey, miso, mirin, rice vinegar, garlic ()
+	- Sesame oil, soy sauce, honey, miso, mirin, rice vinegar, garlic (potentially orange juice)
 	- https://www.taste.com.au/recipes/miso-glazed-fish-sesame-brown-rice-salad/37649f46-bf7c-4463-a97e-f53355f0bae0
-	-
