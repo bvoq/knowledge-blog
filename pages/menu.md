@@ -25,6 +25,7 @@ tags:: moku
 - Fish
 	- [[Seared fish]]
 	- [[Fish with lemon]]
+	- Glazed fish miso (Kabeljau or Salmon).
 - Spicy food
 	- [[Sundubu]]
 	-
