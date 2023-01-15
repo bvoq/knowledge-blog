@@ -1,4 +1,5 @@
 - Put in oven 220C, 20 minutes
-- Olive oil on and inside fish (add cuts), add salt and provencial
-- Spring onions, lemon on the fish, parsley and salt ..
+- Olive oil on and inside fish (add cuts), add salt and provencial herbs on the fish and fill stomach with parsley.
+	- At the end add lemon slices on the fish.
+- Spring onions, potatoes and tomatoes can also be oiled up, salted and provincially herbed.
 - ![photo_2022-11-26 21.21.17.jpeg](../assets/photo_2022-11-26_21.21.17_1669494386476_0.jpeg)
