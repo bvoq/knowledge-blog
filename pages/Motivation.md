@@ -1,4 +1,5 @@
 - ![image.png](../assets/image_1674739559583_0.png)
 - ![image.png](../assets/image_1674739660655_0.png) ![image.png](../assets/image_1674739575221_0.png)
 	- Black hats are not good over time but still help.
+	-
 	- https://www.google.com/url?sa=i&url=https%3A%2F%2Fyukaichou.com%2Fgamification-examples%2Foctalysis-complete-gamification-framework%2F&psig=AOvVaw1gy0LDEJlzzZXxTeglrAyv&ust=1674825995197000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiNl5ur5fwCFQAAAAAdAAAAABAD
