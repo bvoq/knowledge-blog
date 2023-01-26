@@ -13,7 +13,7 @@
 - Octalysis tool
 	- https://yukaichou.com/octalysis-tool/
 	- Good and bad ways of doing these, but you want to focus on the good ones.
-		- Avoidance:
+		- Avoidance: Good for charging a heart pacer, but bad for non-life threatening things.
 		- ![image.png](../assets/image_1674739660655_0.png) ![image.png](../assets/image_1674739575221_0.png)
 			- Black hats are not good over time but still help.
 			- Examples
