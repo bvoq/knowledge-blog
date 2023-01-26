@@ -6,12 +6,17 @@
 	- Ex
 		- Scarcity with cheap product.
 			- Win-win, people come shopping more but
+-
 - Minimise short-short moments.
+-
+-
+- Octalysis tool
+	- https://yukaichou.com/octalysis-tool/
 	-
-- ![image.png](../assets/image_1674739660655_0.png) ![image.png](../assets/image_1674739575221_0.png)
-	- Black hats are not good over time but still help.
-	- Examples
-		- https://i0.wp.com/yukaichou.com/wp-content/uploads/2012/10/Farmville-Gamification.jpg?w=600&ssl=1
-		- https://i0.wp.com/yukaichou.com/wp-content/uploads/2012/10/Diablo-3-Gamification.jpg?w=600&ssl=1
-		- https://i0.wp.com/yukaichou.com/wp-content/uploads/2014/03/Candy-Crush-Octalysis.png?w=600&ssl=1{:height 388, :width 506}
-		-
+	- ![image.png](../assets/image_1674739660655_0.png) ![image.png](../assets/image_1674739575221_0.png)
+		- Black hats are not good over time but still help.
+		- Examples
+			- https://i0.wp.com/yukaichou.com/wp-content/uploads/2012/10/Farmville-Gamification.jpg?w=600&ssl=1
+			- https://i0.wp.com/yukaichou.com/wp-content/uploads/2012/10/Diablo-3-Gamification.jpg?w=600&ssl=1
+			- https://i0.wp.com/yukaichou.com/wp-content/uploads/2014/03/Candy-Crush-Octalysis.png?w=600&ssl=1{:height 388, :width 506}
+			-
