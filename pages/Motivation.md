@@ -3,6 +3,9 @@
 	- Support users to achieve something
 	- Make something users need to do, more engaging.
 	- Make the world a better place.
+	- Ex
+		- Scarcity with cheap product.
+			- Win-win, people come shopping more but
 - ![image.png](../assets/image_1674739660655_0.png) ![image.png](../assets/image_1674739575221_0.png)
 	- Black hats are not good over time but still help.
 	- Examples
