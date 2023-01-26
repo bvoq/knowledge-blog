@@ -6,6 +6,8 @@
 	- Ex
 		- Scarcity with cheap product.
 			- Win-win, people come shopping more but
+- Minimise short-short moments.
+	-
 - ![image.png](../assets/image_1674739660655_0.png) ![image.png](../assets/image_1674739575221_0.png)
 	- Black hats are not good over time but still help.
 	- Examples
