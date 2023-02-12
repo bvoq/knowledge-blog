@@ -1,4 +1,5 @@
-- Judge the situation, check the situation for a few seconds.
-- Think about what you have to do in this situation.
-- Then act.
+- Judge the situation
+	- look
+	- think
+	- act
 -
