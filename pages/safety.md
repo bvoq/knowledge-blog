@@ -20,5 +20,6 @@
 	- Turn so you can grab the person at their underarms.
 	- ![image.png](../assets/image_1676214438529_0.png)
 	- Ansprechbare Personen sollen grundsätzlich so behandelt werden wie sie es sagen.
+	- ![image.png](../assets/image_1676215187082_0.png)
 -
 -
