@@ -46,3 +46,7 @@ tags:: jan
 	- 04/05/87 (legal)
 	- extra 11/08/88
 	- Blood type O.
+- Games
+	- Logic games
+	- 2 player games
+	- Rymdkapsel (easy to understand
