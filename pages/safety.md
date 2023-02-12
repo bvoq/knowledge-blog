@@ -18,4 +18,5 @@
 	- Open the seat belt.
 	- Wear hygienic gloves.
 	- Turn so you can grab the person at their underarms.
-	- ![image.png](../assets/image_1676214376451_0.png)
+	- ![image.png](../assets/image_1676214438529_0.png)
+	-
