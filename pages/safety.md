@@ -2,8 +2,11 @@
 	- look
 		- who is under a life threatening situation?
 		- how many patients are there?
-		- how many qualified people are there to help?
+		- how many people are there to help with what qualifications?
 	- think
-		-
+		- how should the safety workload be split?
+		- how will i act?
 	- act
+		- Bring the person to safety (away from road eg.)
+		-
 -
