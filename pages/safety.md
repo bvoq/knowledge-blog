@@ -15,5 +15,5 @@
 	- Talk to the person to see if s/he is alright?
 	- Open the door carefully.
 	- Talk to the person again.
-	-
+	- Open the seat belt.
 	- Wear hygienic gloves.
