@@ -19,5 +19,5 @@
 	- Wear hygienic gloves.
 	- Turn so you can grab the person at their underarms.
 	- ![image.png](../assets/image_1676214438529_0.png)
-	- Ansprechbare Personen sind grunds
+	- Ansprechbare Personen sollen grundsätzlich
 -
