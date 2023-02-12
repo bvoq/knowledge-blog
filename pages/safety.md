@@ -8,5 +8,6 @@
 		- how will i act?
 	- act
 		- Bring the person to safety (away from road eg.)
+		- Talk to the person to see if s/he is alright?
 		- Hygienic, wear gloves use disinfectant.
 -
