@@ -1,5 +1,9 @@
 - Judge the situation
 	- look
+		- who is under a life threatening situation?
+		- how many patients are there?
+		- how many qualified people are there to help?
 	- think
+		-
 	- act
 -
