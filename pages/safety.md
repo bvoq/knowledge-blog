@@ -10,4 +10,10 @@
 		- Bring the person to safety (away from road eg.)
 		- Talk to the person to see if s/he is alright?
 		- Hygienic, wear gloves use disinfectant.
--
+- Car accidents
+	- Bring the person to safety.
+	- Talk to the person to see if s/he is alright?
+	- Open the door carefully.
+	- Talk to the person again.
+	-
+	- Wear hygienic gloves.
