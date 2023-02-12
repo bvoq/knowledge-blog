@@ -23,6 +23,8 @@
 	- ![image.png](../assets/image_1676215187082_0.png)
 	- ![image.png](../assets/image_1676215248160_0.png)
 - Notrufnummer
-	-
+	- 117 - Polizei
+	- 118 - Feuerwehr
+	- 144 - Sanitäts
 -
 -
