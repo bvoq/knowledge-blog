@@ -49,4 +49,5 @@ tags:: jan
 - Games
 	- Logic games
 	- 2 player games
-	- Rymdkapsel (easy to understand
+	- Rymdkapsel (easy to understand)
+	- No 3D
