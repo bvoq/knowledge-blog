@@ -26,6 +26,8 @@
 	- 117 - Polizei
 	- 118 - Feuerwehr
 	- 144 - Sanitätswagen
-	-
+	- 1414 - Rega (Helikopter)
+	- 145 - Tox Info Suisse (Giftunfall, Drogen)
+	- 112 - Allgemeine Notnummer
 -
 -
