@@ -25,6 +25,7 @@
 - Notrufnummer
 	- 117 - Polizei
 	- 118 - Feuerwehr
-	- 144 - Sanitäts
+	- 144 - Sanitätswagen
+	-
 -
 -
