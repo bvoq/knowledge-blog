@@ -91,4 +91,9 @@
 	- Feuer löschen mit Wasser und Kleider.
 	- Entfernen der Kleider sofern sie nicht kleben wegen Aufschwellungen.
 	- Kühlen 15-20 Minuten mit lauwarmen Wasser kühlen.
+- Verblutung
+	- 5-6 Liter Blut (so viel pumpt das Herz in einer Minute)
+	- 300 Liter (Badewanne) pumpt das Herz in einer Stunde
+	- 1/13 des Körpergewichts ist Blut
+	-
 	-
