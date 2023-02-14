@@ -71,6 +71,7 @@
 	- ![image.png](../assets/image_1676401265789_0.png)
 	- Hole Hilfe um 144 anzurufen, Defibrillator zu holen und ein weiterer Helfer zum beatmen.
 	- ![image.png](../assets/image_1676400474221_0.png)
+	- Auf harte Unterlage verschieben.
 	- 2x pro Sekunde, 100-120x pro Minute, 5-6 cm tief drücken.
 	- Nach 30 mal drücken, eine Sekunde mit **zwei** Beatmungsstössen helfen.
 - Call for help
@@ -92,6 +93,7 @@
 	- Entfernen der Kleider sofern sie nicht kleben wegen Aufschwellungen.
 	- Kühlen 15-20 Minuten mit lauwarmen Wasser kühlen.
 - Verblutung
+	- Ab 1 Liter lebensbedrohlich.
 	- 5-6 Liter Blut (so viel pumpt das Herz in einer Minute)
 	- 300 Liter (Badewanne) pumpt das Herz in einer Stunde
 	- 1/13 des Körpergewichts ist Blut
