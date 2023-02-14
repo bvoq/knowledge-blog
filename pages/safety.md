@@ -33,7 +33,11 @@
 -
 - Further treatment
 	- If conscious, ask him for pain points.
-		- Find
+		- Find them
+		- People with back pain or don't feel their arms and legs should not be moved.
+		- Ask if you can warm the person.
+			- ![image.png](../assets/image_1676398060301_0.png)
+			-
 	- Bewusstseinslos / Unconscious
 		- Check by asking loudly.
 			- If he moves his muscles he is not unconscious, even just opening the eyes.
