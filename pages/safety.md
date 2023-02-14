@@ -59,7 +59,9 @@
 			- ![image.png](../assets/image_1676399514432_0.png)
 			- Die überstreckte Kopfhaltung ist am wichtigsten!
 		-
--
+- Herzatmung
+	- ![image.png](../assets/image_1676400474221_0.png)
+	-
 - Call for help
 	- Swiss emergency numbers
 		- 117 - Polizei
