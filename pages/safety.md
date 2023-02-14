@@ -13,7 +13,10 @@
 - Car accidents
 	- What to do
 		- Bring car to safety line.
-		- Wear vest
+		- Wear orange vest.
+		- Put triangle outside.
+		- Emergency lights.
+		-
 		-
 	- Help someone
 		- Bring the person to safety.
