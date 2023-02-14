@@ -32,11 +32,12 @@
 		- ![image.png](../assets/image_1676215248160_0.png)
 -
 - Further treatment
+	- If conscious, ask him for pain points.
+		- Find
 	- Bewusstseinslos / Unconscious
 		- Check by asking loudly.
 			- If he moves his muscles he is not unconscious, even just opening the eyes.
 		- Next check his breathing.
-		-
 		- Problems
 			- Tongue muscle may loosen and block breathing ways.
 			- Stomach muscles may leak liquid.
