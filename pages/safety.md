@@ -59,7 +59,7 @@
 			- ![image.png](../assets/image_1676399514432_0.png)
 			- Die überstreckte Kopfhaltung ist am wichtigsten!
 		-
-	-
+-
 - Call for help
 	- Swiss emergency numbers
 		- 117 - Polizei
