@@ -61,7 +61,7 @@
 		-
 - Herzatmung
 	- ![image.png](../assets/image_1676400474221_0.png)
-	-
+	- 2x pro Sekunde, 5-6 cm tief drücken
 - Call for help
 	- Swiss emergency numbers
 		- 117 - Polizei
