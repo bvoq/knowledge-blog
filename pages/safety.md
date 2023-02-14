@@ -111,4 +111,7 @@
 	- Normalerweise durch Sturz oder Unfall
 	- Diagnose:
 		- Rückenschmerzen
-		- Gefühllosigkeit/Stöhrung
+		- Gefühllosigkeit/Stöhrung in der Arm/Bein Wahrnehmung.
+		- Unkontrollierbarer Stuhl- und Harnabgang
+		- Lageveränderung nur stabilisierend machen.
+		-
