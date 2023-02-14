@@ -98,7 +98,8 @@
 	- Wie helfen?
 		- Blutstillung durchführen
 			- Arm/Bein hochhalten.
-			- Arterien zudrücken
+			- Arterien zudrücken oberhalb und unterhalb der betroffenen Stelle.
+			- Mit sauberem Gegenstand direkt auf Wunde drücken.
 			- ![image.png](../assets/image_1676403475748_0.png)
 			-
 		- Fremdkörper in der Wunde lassen
