@@ -101,6 +101,7 @@
 			- Patient flach hinlegen
 			- Arm/Bein hochhalten.
 			- Arterien zudrücken oberhalb und unterhalb der betroffenen Stelle.
+			- Fremdkörper in der Wunde lassen
 			- Mit sauberem Gegenstand direkt auf Wunde drücken.
 			- ![image.png](../assets/image_1676403475748_0.png)
 			- Verwende nur FLÜSSIGE DESINFEKTIONSMITTEL
@@ -108,8 +109,4 @@
 		- Wärmeerhalt gewährleisten
 		- Handschuhe Tragen
 		- Notruf anrufen
-		-
-	-
-	-
-	- Trage ich Handschuhe?
-	-
+-
