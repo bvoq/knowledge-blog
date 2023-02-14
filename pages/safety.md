@@ -114,4 +114,4 @@
 		- Gefühllosigkeit/Stöhrung in der Arm/Bein Wahrnehmung.
 		- Unkontrollierbarer Stuhl- und Harnabgang
 		- Lageveränderung nur stabilisierend machen.
-		-
+		- Bei kombinierter Unbewusstheit ist Herzrhythmus wichtiger!
