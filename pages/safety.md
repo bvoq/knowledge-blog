@@ -60,6 +60,7 @@
 			- Die überstreckte Kopfhaltung ist am wichtigsten!
 		-
 - Herzatmung
+	- Hole Hilfe um 144 anzurufen, Defibrillator zu holen und ein weiterer Helfer zum beatmen.
 	- ![image.png](../assets/image_1676400474221_0.png)
 	- 2x pro Sekunde, 100-120x pro Minute, 5-6 cm tief drücken.
 	- Nach 30 mal drücken, eine Sekunde beatmen.
