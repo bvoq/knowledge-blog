@@ -30,6 +30,14 @@
 		- Ansprechbare Personen sollen grundsätzlich so behandelt werden wie sie es sagen.
 		- ![image.png](../assets/image_1676215187082_0.png)
 		- ![image.png](../assets/image_1676215248160_0.png)
+-
+- Further treatment
+	- Bewusstseinslos / Unconscious
+		- Tongue muscle may loosen and block breathing ways.
+		-
+	- Place person in this position
+		- ![image.png](../assets/image_1676397732491_0.png)
+	-
 - Call for help
 	- Swiss emergency numbers
 		- 117 - Polizei
