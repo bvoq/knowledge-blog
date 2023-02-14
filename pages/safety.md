@@ -58,7 +58,7 @@
 			- ![image.png](../assets/image_1676399390131_0.png)
 			- ![image.png](../assets/image_1676399416523_0.png)
 			- ![image.png](../assets/image_1676399514432_0.png)
-			-
+			- Die überstreckte Kopfhaltung ist am wichtigsten!
 	-
 - Call for help
 	- Swiss emergency numbers
