@@ -33,7 +33,10 @@
 -
 - Further treatment
 	- Bewusstseinslos / Unconscious
-		- Check by asking loudly
+		- Check by asking loudly.
+			- If he moves his muscles he is not unconscious, even just opening the eyes.
+		- Next check his breathing.
+		-
 		- Problems
 			- Tongue muscle may loosen and block breathing ways.
 			- Stomach muscles may leak liquid.
