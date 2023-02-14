@@ -34,5 +34,6 @@
 	- Wer ruft an?
 	- Was ist passiert?
 	- Wie viele Personen sind betroffen?
-	-
+	- Welche Art der Verletzung?
+	- Weiteres: Auslaufendes Benzin, etc.
 -
