@@ -16,7 +16,7 @@
 		- Wear orange vest.
 		- Put triangle outside.
 		- Emergency lights.
-		-
+		- Protokollierung des schadens (Foto)
 		-
 	- Help someone
 		- Bring the person to safety.
