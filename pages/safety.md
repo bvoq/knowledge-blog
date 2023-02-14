@@ -97,6 +97,7 @@
 	- 1/13 des Körpergewichts ist Blut
 	- Wie helfen?
 		- Blutstillung durchführen
+			- Notruf anrufen
 			- Handschuhe anziehen wenn möglich
 			- Patient flach hinlegen
 			- Arm/Bein hochhalten.
@@ -104,9 +105,7 @@
 			- Fremdkörper in der Wunde lassen
 			- Mit sauberem Gegenstand direkt auf Wunde drücken.
 			- ![image.png](../assets/image_1676403475748_0.png)
+			- Wärmeerhalt gewährleisten
 			- Verwende nur FLÜSSIGE DESINFEKTIONSMITTEL
-		- Fremdkörper in der Wunde lassen
-		- Wärmeerhalt gewährleisten
-		- Handschuhe Tragen
-		- Notruf anrufen
--
+- Halswirbelsäule Verletzung
+	-
