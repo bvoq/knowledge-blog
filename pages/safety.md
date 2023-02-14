@@ -95,5 +95,7 @@
 	- 5-6 Liter Blut (so viel pumpt das Herz in einer Minute)
 	- 300 Liter (Badewanne) pumpt das Herz in einer Stunde
 	- 1/13 des Körpergewichts ist Blut
+	- Wo blutet es, gibt es Knochenbrüche?
 	-
+	- Trage ich Handschuhe?
 	-
