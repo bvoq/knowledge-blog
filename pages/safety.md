@@ -22,12 +22,13 @@
 	- Ansprechbare Personen sollen grundsätzlich so behandelt werden wie sie es sagen.
 	- ![image.png](../assets/image_1676215187082_0.png)
 	- ![image.png](../assets/image_1676215248160_0.png)
-- Notrufnummer
-	- 117 - Polizei
-	- 118 - Feuerwehr
-	- 144 - Sanitätswagen
-	- 1414 - Rega (Helikopter)
-	- 145 - Tox Info Suisse (Giftunfall, Drogen)
-	- 112 - Allgemeine Notnummer
--
+- Call for help
+	- Swiss emergency numbers
+		- 117 - Polizei
+		- 118 - Feuerwehr
+		- 144 - Sanitätswagen
+		- 1414 - Rega (Helikopter)
+		- 145 - Tox Info Suisse (Giftunfall, Drogen)
+		- 112 - Allgemeine Notnummer
+	-
 -
