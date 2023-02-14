@@ -64,6 +64,10 @@
 		- Auslösung
 			- Medikamente, Alkohol
 		- Geben von Nitroglyzerin falls verschrieben/vorhanden.
+	- Hirnschlag
+		- Sauerstoff- und Nährstoffversorgung
+		- ![image.png](../assets/image_1676402817074_0.png)
+		-
 	- ![image.png](../assets/image_1676401265789_0.png)
 	- Hole Hilfe um 144 anzurufen, Defibrillator zu holen und ein weiterer Helfer zum beatmen.
 	- ![image.png](../assets/image_1676400474221_0.png)
