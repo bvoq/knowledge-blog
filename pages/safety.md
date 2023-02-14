@@ -11,17 +11,22 @@
 		- Talk to the person to see if s/he is alright?
 		- Hygienic, wear gloves use disinfectant.
 - Car accidents
-	- Bring the person to safety.
-	- Talk to the person to see if s/he is alright?
-	- Open the door carefully.
-	- Talk to the person again.
-	- Open the seat belt.
-	- Wear hygienic gloves.
-	- Turn so you can grab the person at their underarms.
-	- ![image.png](../assets/image_1676214438529_0.png)
-	- Ansprechbare Personen sollen grundsätzlich so behandelt werden wie sie es sagen.
-	- ![image.png](../assets/image_1676215187082_0.png)
-	- ![image.png](../assets/image_1676215248160_0.png)
+	- What to do
+		- Bring car to safety line.
+		- Wear vest
+		-
+	- Help someone
+		- Bring the person to safety.
+		- Talk to the person to see if s/he is alright?
+		- Open the door carefully.
+		- Talk to the person again.
+		- Open the seat belt.
+		- Wear hygienic gloves.
+		- Turn so you can grab the person at their underarms.
+		- ![image.png](../assets/image_1676214438529_0.png){:height 372, :width 537}
+		- Ansprechbare Personen sollen grundsätzlich so behandelt werden wie sie es sagen.
+		- ![image.png](../assets/image_1676215187082_0.png)
+		- ![image.png](../assets/image_1676215248160_0.png)
 - Call for help
 	- Swiss emergency numbers
 		- 117 - Polizei
