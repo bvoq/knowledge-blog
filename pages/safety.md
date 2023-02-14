@@ -113,5 +113,5 @@
 		- Rückenschmerzen
 		- Gefühllosigkeit/Stöhrung in der Arm/Bein Wahrnehmung.
 		- Unkontrollierbarer Stuhl- und Harnabgang
-		- Lageveränderung nur stabilisierend machen.
-		- Bei kombinierter Unbewusstheit ist Herzrhythmus wichtiger!
+		- Lageveränderung nur wenn nicht ansprechbar!
+		- Bei kombinierter Unbewusstheit ist Herzrhythmus  wiederbelebung wichtiger!
