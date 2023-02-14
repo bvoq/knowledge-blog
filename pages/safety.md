@@ -97,12 +97,13 @@
 	- 1/13 des Körpergewichts ist Blut
 	- Wie helfen?
 		- Blutstillung durchführen
-			-
+			- Handschuhe anziehen wenn möglich
+			- Patient flach hinlegen
 			- Arm/Bein hochhalten.
 			- Arterien zudrücken oberhalb und unterhalb der betroffenen Stelle.
 			- Mit sauberem Gegenstand direkt auf Wunde drücken.
 			- ![image.png](../assets/image_1676403475748_0.png)
-			-
+			- Verwende nur FLÜSSIGE DESINFEKTIONSMITTEL
 		- Fremdkörper in der Wunde lassen
 		- Wärmeerhalt gewährleisten
 		- Handschuhe Tragen
