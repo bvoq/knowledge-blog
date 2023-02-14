@@ -97,6 +97,7 @@
 	- 1/13 des Körpergewichts ist Blut
 	- Wie helfen?
 		- Blutstillung durchführen
+			-
 			- Arm/Bein hochhalten.
 			- Arterien zudrücken oberhalb und unterhalb der betroffenen Stelle.
 			- Mit sauberem Gegenstand direkt auf Wunde drücken.
