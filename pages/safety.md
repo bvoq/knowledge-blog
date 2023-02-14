@@ -108,4 +108,7 @@
 			- Wärmeerhalt gewährleisten
 			- Verwende nur FLÜSSIGE DESINFEKTIONSMITTEL
 - Halswirbelsäule Verletzung
-	-
+	- Normalerweise durch Sturz oder Unfall
+	- Diagnose:
+		- Rückenschmerzen
+		- Gefühllosigkeit/Stöhrung
