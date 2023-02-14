@@ -90,5 +90,5 @@
 - Verbrennung
 	- Löschen mit Wasser und Kleider.
 	- Entfernen der Kleider sofern sie nicht kleben wegen Aufschwellungen.
-	-
+	- Kühlen 15-2o Minuten mit lauwarmen Wasser.
 	-
