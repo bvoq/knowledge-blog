@@ -97,10 +97,15 @@
 	- 1/13 des Körpergewichts ist Blut
 	- Wie helfen?
 		- Blutstillung durchführen
+			- Arm/Bein hochhalten.
+			- Arterien zudrücken
+			- ![image.png](../assets/image_1676403475748_0.png)
+			-
 		- Fremdkörper in der Wunde lassen
 		- Wärmeerhalt gewährleisten
 		- Handschuhe Tragen
 		- Notruf anrufen
+		-
 	-
 	-
 	- Trage ich Handschuhe?
