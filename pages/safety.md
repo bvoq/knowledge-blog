@@ -97,6 +97,7 @@
 	- 1/13 des Körpergewichts ist Blut
 	- Wie helfen?
 		- Blutstillung durchführen
+		- Fremdkörper in der Wunde lassen
 		- Wärmeerhalt gewährleisten
 		- Handschuhe Tragen
 		- Notruf anrufen
