@@ -44,6 +44,9 @@
 			- If he moves his muscles he is not unconscious, even just opening the eyes.
 		- Next check his breathing.
 		- Causes
+			- Head damage.
+			- Sauerstoffmangel.
+			- Poison.
 			-
 		- Problems
 			- Tongue muscle may loosen and block breathing ways.
