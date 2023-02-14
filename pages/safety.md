@@ -88,7 +88,7 @@
 	- Welche Art der Verletzung?
 	- Weiteres: Auslaufendes Benzin, etc.
 - Verbrennung
-	- Löschen mit Wasser und Kleider.
+	- Feuer löschen mit Wasser und Kleider.
 	- Entfernen der Kleider sofern sie nicht kleben wegen Aufschwellungen.
-	- Kühlen 15-2o Minuten mit lauwarmen Wasser.
+	- Kühlen 15-20 Minuten mit lauwarmen Wasser kühlen.
 	-
