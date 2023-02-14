@@ -30,5 +30,9 @@
 		- 1414 - Rega (Helikopter)
 		- 145 - Tox Info Suisse (Giftunfall, Drogen)
 		- 112 - Allgemeine Notnummer
+	- Wo
+	- Wer ruft an?
+	- Was ist passiert?
+	- Wie viele Personen sind betroffen?
 	-
 -
