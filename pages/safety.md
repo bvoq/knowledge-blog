@@ -33,8 +33,11 @@
 -
 - Further treatment
 	- Bewusstseinslos / Unconscious
-		- Tongue muscle may loosen and block breathing ways.
-		-
+		- Check by asking loudly
+		- Problems
+			- Tongue muscle may loosen and block breathing ways.
+			- Stomach muscles may leak liquid.
+			- Gums might fall into the mouth, block air.
 	- Place person in this position
 		- ![image.png](../assets/image_1676397732491_0.png)
 	-
