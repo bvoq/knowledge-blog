@@ -35,6 +35,7 @@
 	- If conscious, ask him for pain points.
 		- Find them
 		- People with back pain or don't feel their arms and legs should not be moved.
+		- Get more people to help.
 		- Ask if you can warm the person.
 			- ![image.png](../assets/image_1676398060301_0.png)
 			-
@@ -42,6 +43,8 @@
 		- Check by asking loudly.
 			- If he moves his muscles he is not unconscious, even just opening the eyes.
 		- Next check his breathing.
+		- Causes
+			-
 		- Problems
 			- Tongue muscle may loosen and block breathing ways.
 			- Stomach muscles may leak liquid.
