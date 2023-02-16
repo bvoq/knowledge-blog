@@ -1,0 +1,31 @@
+- Is-ought problem / Humes guillotine
+	- Humans have evolved to eat meat, therefore one ought to eat meat.
+- Deontological ethics (e.g. Kantian ethics)
+	- Morals/ethics are bound by action / duty, not the end result.
+	- Problems:
+		- Lying about hiding a jew might be the correct action.
+		- What if the jew was secretly trying to escape without your knowledge and by lying about hiding a jew, the police catches him.
+- Utilitarianism
+	- One ought to optimise the greatest good for the greatest number.
+	- Weighted utilitarianism
+		- Assume there are 5 people on one sinking ship and one sinking ship with 1 person on it. You can only save the people from one sinking ship. Classic utilitarianism would always go for the 5 people, but this may be seen as unfair as the 1 person never got a chance to get saved. Weighted utilitarianism instead shifts the definition and throws a dice. If the dice lands on 6 (16.66% likelihood), the person from the sinking ship with only one person is saved, else the others are saved (83.33% likelihood).
+- Virtue ethics (eg. Aristotelean ethics)
+	- We should not discuss what you can't do (blacklist) but instead you should try to live a virtuous life (whitelist).
+- Intuitionism / Non naturalism
+	- Moral language cannot be reduced to a natural language, we just know what is right or wrong by intuition.
+	- You don't need a law book about what is right/wrong.
+	- Natural law (D tier)
+		- Ethical rules are written in the world.
+- Moral relativism
+	- Moral are relative to the culture and period you live in.
+	- Explains moral diversity, moral disagreements, moral changes, but also simplifies it to rituals.
+	- How do we become more virtues?
+- Quasi realism
+	- We treat morality as though it is real, but ultimately it is not.
+- Emotivism
+	- Morality is just human emotion.
+	- 'Murder is wrong' is not true/false, but they make you feel bad.
+- Moral skepticism / Moral error theory / Moral nihilism
+	- State that an action is never sure to be moral or not or even that ethics does not exist/make sense.
+- Situation ethics:
+	- Do the best you can for your fellow men in each situation (but what is it?)
