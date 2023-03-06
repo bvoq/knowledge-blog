@@ -1,0 +1,3 @@
+- The moral value of not being a hypocrite.
+	- https://www.youtube.com/watch?v=zFfWv0EnHQw
+-
