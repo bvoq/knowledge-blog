@@ -1,0 +1,10 @@
+- 60 minutes before waking up:
+	- Sunlight
+		- What matters most to me?
+		- What are my strengths and values?
+		- How can I be uniquely valuable to others?
+	- Starlight
+		- Long term objectives
+	-
+-
+- What [[ADHD]] people don't have.
