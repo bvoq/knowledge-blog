@@ -4,7 +4,8 @@
 		- What are my strengths and values?
 		- How can I be uniquely valuable to others?
 	- Starlight
-		- Long term objectives
-	-
+		- Write down long-term objectives and writing down daily tasks.
+	- Spotlight
+		- Complete the daily deep focus that you wanted to do.
 -
 - What [[ADHD]] people don't have.
