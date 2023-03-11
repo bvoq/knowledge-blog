@@ -2,5 +2,5 @@
 	- 'Angriffskrieg' + 'Verteidungskrieg' **korrupter** Regime verbieten.
 - Inkompatible/Korrupte Regime
 	- Starten Angriffskriege
-	- Verwenden Minen im Krieg
+	- Verwenden Biowaffen, Minen im Verteidigungskrieg, etc. die der Gesellschaft Schaden.
 	-
