@@ -1,0 +1,2 @@
+- Self-defense
+	- 'Sngriffskrieg' + 'verteidungskrieg' korrupter regime verbieten.
