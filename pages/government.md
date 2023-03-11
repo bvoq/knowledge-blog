@@ -1,2 +1,6 @@
 - Self-defense
-	- 'Sngriffskrieg' + 'verteidungskrieg' korrupter regime verbieten.
+	- 'Angriffskrieg' + 'Verteidungskrieg' **korrupter** Regime verbieten.
+- Inkompatible/Korrupte Regime
+	- Starten Angriffskriege
+	- Verwenden Minen im Krieg
+	-
