@@ -1,2 +1,3 @@
-- Sometimes the question is too unspecific. Try to extract some answers from the  guide you to the answer.
+- Instead of checking: Is it possible, try also imagining whether it is impossible/not allowed.
+- Sometimes the question is too unspecific. Try to extract some information from the possible answers.
 	- ![image.png](../assets/image_1678654855680_0.png)
