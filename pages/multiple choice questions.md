@@ -1,3 +1,4 @@
 - Instead of checking: Is it possible, try also imagining whether it is impossible/not allowed.
+- Have a strategy for 'possible answers' depending on the type of test and y
 - Sometimes the question is too unspecific. Try to extract some information from the possible answers.
 	- ![image.png](../assets/image_1678654855680_0.png)
