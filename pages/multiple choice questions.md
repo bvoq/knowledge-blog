@@ -1,0 +1,2 @@
+- Sometimes the question is too unspecific. Try to extract some answers from the  guide you to the answer.
+	- ![image.png](../assets/image_1678654855680_0.png)
