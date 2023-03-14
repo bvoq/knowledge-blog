@@ -24,6 +24,8 @@
 	- value for price -> subjective measure
 	- value if money is of no concern
 - Intersubjective value
-	- Rating
+	- Rating comparison score.
 	- Comparing who went where, who watched what
-	-
+	- Stricter security model.
+- API based
+- Choose which DB you are interested in (drop-in model).
