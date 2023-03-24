@@ -13,7 +13,7 @@
 	- plan to do them IF actionable moods
 	- completed IF consumable mood
 	- doing IF routine moods
-	- dropped IF stopped moods
+	- dropped IF stoppable moods
 	  -- group moods
 	- judgeable moods/rateable -> most things are
 	  -- review them
