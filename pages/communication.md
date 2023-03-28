@@ -1,7 +1,11 @@
 - Analytical
 	- First, recognise in your own map that there are facts and there are judgements.
 	- Greg kicked me when I was young [fact].
-	- (therefore) Greg is a bad person [judgement].
+	- (therefore) Greg is a sadistic person [judgement].
+	- Greg is strong [fact].
+	- Playing in a dodgeball team with people who are sadistic is a bad idea.
+	- Greg is strong [fact].
+	-
 	- Playing with bad people is a bad idea [judgement/dogma]
 	-
 	- Judgements and dogmas are useful shortcuts for quick thinking.
