@@ -13,5 +13,6 @@
 - Dynamic silence
 -
 - why not -ism?
-	- Ask experts
+	- Ask experts the question why not when they propose something.
+	- Because they know more, it's what they are paid to do, so through this you can learn their negative decisions and maybe even catch them on a blunder.
 -
