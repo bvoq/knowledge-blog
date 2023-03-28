@@ -1,4 +1,8 @@
+- Analytical
+	- First, recognise in your own map that there are facts and there are judgements.
+	- Greg kicked me when I was young [].
+	- (therefore) Greg is a bad person [judgement].
 - Empathy
-- mirroring
+- Mirroring
 - Dynamic silence
 -
