@@ -12,3 +12,5 @@
 - Mirroring
 - Dynamic silence
 -
+- why not ism?
+-
