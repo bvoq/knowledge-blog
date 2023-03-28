@@ -6,7 +6,6 @@
 	- To win you should not pick a team player who is sadistic [judgement].
 	- Greg is strong [fact].
 	- To win you should play pick a team player who is strong [judgement]
-	-
 	- Judgements and dogmas are useful shortcuts for quick thinking.
 	-
 - Empathy
