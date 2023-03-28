@@ -3,9 +3,9 @@
 	- Greg kicked me when I was young [fact].
 	- (therefore) Greg is a sadistic person [judgement].
 	- Greg is strong [fact].
-	- Playing in a dodgeball team with people who are sadistic is a bad idea [judgement].
+	- To win you should not pick a team player who is sadistic [judgement].
 	- Greg is strong [fact].
-	- To win you should play pick a team player who is strong dodgeball with people who are strong is a good idea. [judgement]
+	- To win you should play pick a team player who is strong [judgement]
 	-
 	- Judgements and dogmas are useful shortcuts for quick thinking.
 	-
