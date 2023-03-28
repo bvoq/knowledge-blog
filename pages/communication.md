@@ -1,0 +1,4 @@
+- Empathy
+- mirroring
+- Dynamic silence
+-
