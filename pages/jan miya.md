@@ -43,8 +43,8 @@ tags:: jan
 	- Luxury, age doesn't matter.
 	- Bla
 - Birthday:
-	- 04/05/87 (legal)
-	- extra 11/08/88
+	- 04/05/87
+	- extra 11/08
 	- Blood type O.
 - Games
 	- Logic games
