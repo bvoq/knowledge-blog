@@ -1,0 +1,1 @@
+- This is a handbook on how to become even more lazy
