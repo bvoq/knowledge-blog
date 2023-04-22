@@ -27,4 +27,7 @@ tags:: olin
 	- Kevin day
 - [[jan miya]] en [[jan kewin]]
 - [[before after relationship]]
+- type of content Miya likes
+	- inspiring
+	-
 - TODO Miya and Kevin day where we review our past/current interests. Keep open & positive.
