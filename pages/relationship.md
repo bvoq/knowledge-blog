@@ -34,5 +34,5 @@ tags:: olin
 	- hope
 	- intimacy with kevin
 	- ![](https://hbr.org/resources/images/article_assets/hbr/0909/R0909D_B.gif)
--
+	- content to inspire divorced women
 - TODO Miya and Kevin day where we review our past/current interests. Keep open & positive.
