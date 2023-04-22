@@ -33,6 +33,7 @@ tags:: moku
 - [[Baked beans with sausage]]
 - [[Baked beans in british pudding]]
 - [[Shio ramen]]
+- Buns
 -
 -
 - Chicken with [[Hainan sauce]].
