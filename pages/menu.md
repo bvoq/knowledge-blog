@@ -37,6 +37,7 @@ tags:: moku
 	- Baozi
 	- Cha siu bao
 	- Nai wong bao
+	- # Germknödel
 -
 - Chicken with [[Hainan sauce]].
 	- ![photo_2022-11-26 20.56.00.jpeg](../assets/photo_2022-11-26_20.56.00_1669492636165_0.jpeg)
