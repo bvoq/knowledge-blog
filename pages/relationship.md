@@ -29,5 +29,9 @@ tags:: olin
 - [[before after relationship]]
 - type of content Miya likes
 	- inspiring
-	-
+	- funny
+	- energy
+	- hope
+	- intimacy with kevin
+-
 - TODO Miya and Kevin day where we review our past/current interests. Keep open & positive.
