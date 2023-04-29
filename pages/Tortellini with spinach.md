@@ -1,1 +1,3 @@
 - Tortellini filled with spinach, frozen spinach, cream, truffle oil and cheese to top it.
+- In a separate pan first cook some garlic, then add spinach to the pan and finally add cream.
+- Cook the tortellini for 2 minutes in boiling water and add salt and garlic to the boiling water.
