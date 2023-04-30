@@ -13,6 +13,7 @@ tags:: pilin
 	- Exactly the same person, except for missing their consciousness.
 - The anti zombie:
 	- If someone is copied by atoms he must necessarily be conscious (anti zombie by construction).
+- We are planning machines.
 - Experiences can be sorted into **categories**, a favourite past-time of philosophers.
 	- **Unintentional experiences** are also called **imprinted** experiences, because they are forced onto you.
 		- You can however choose to not focus on them.
