@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1682868483261
+{:block/created-at 1682868534734
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -16,13 +16,14 @@
 :id "7e2abb42-e76b-11ed-bd5f-23d02b78f66e"
 :fontWeight 400
 :noFill true
-:point [382.51 155.76]
+:point [384.87 159.67]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0.37 708.02]}
+:point [0.7 702.82]
+:bindingId nil}
 :end 
 {:id "end"
 :canBind true
@@ -31,10 +32,10 @@
 :decorations 
 {:end "arrow"}
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
-:nonce 1682868438420
+:nonce 1682868438548
 :italic false}}
-:block/updated-at 1682868483261} 
-{:block/created-at 1682868483261
+:block/updated-at 1682868534734} 
+{:block/created-at 1682868534734
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -52,24 +53,26 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [634.78125 155.90625]
+:point [639.49 162.12]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0.37 708.02]}
+:point [0.45 701.84]
+:bindingId nil}
 :end 
 {:id "end"
 :canBind true
-:point [0 0]}}
+:point [0 0]
+:bindingId nil}}
 :decorations 
 {:end "arrow"}
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
-:nonce 1682868438822
+:nonce 1682868438939
 :italic false}}
-:block/updated-at 1682868483261} 
-{:block/created-at 1682868483261
+:block/updated-at 1682868534734} 
+{:block/created-at 1682868534734
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -87,24 +90,26 @@
 :fontWeight 400
 :noFill true
 :isLocked false
-:point [912.44140625 161.08984375]
+:point [897.51 161.51]
 :fontSize 20
 :handles 
 {:start 
 {:id "start"
 :canBind true
-:point [0.37 708.02]}
+:point [0 701.31]
+:bindingId nil}
 :end 
 {:id "end"
 :canBind true
-:point [0 0]}}
+:point [0.52 0]
+:bindingId nil}}
 :decorations 
 {:end "arrow"}
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
-:nonce 1682868438880
+:nonce 1682868439027
 :italic false}}
-:block/updated-at 1682868483261} 
-{:block/created-at 1682868483261
+:block/updated-at 1682868534734} 
+{:block/created-at 1682868534734
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -125,15 +130,15 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [880.4703125 103.90859375]
+:point [863.39609375 110.7171875]
 :lineHeight 1.2
 :fontSize 20
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
-:nonce 1682868458468
+:nonce 1682868458516
 :italic false
 :text "Money"}}
-:block/updated-at 1682868483261} 
-{:block/created-at 1682868483261
+:block/updated-at 1682868534734} 
+{:block/created-at 1682868534735
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -162,8 +167,8 @@
 :nonce 1682868458611
 :italic false
 :text "MoodDex"}}
-:block/updated-at 1682868483261} 
-{:block/created-at 1682868483261
+:block/updated-at 1682868534735} 
+{:block/created-at 1682868534735
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -193,7 +198,30 @@
 :nonce 1682868458828
 :italic false
 :text "Relationship\nLifestyle"}}
-:block/updated-at 1682868483261})
+:block/updated-at 1682868534735} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [453.2890625 121.83984375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "b3290400-e76b-11ed-bd5f-23d02b78f66e"
+:fontWeight 400
+:noFill false
+:point [539.01875 774.0585937499997]
+:fontSize 20
+:parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:nonce 1682868527390
+:italic false}}
+:block/updated-at 1682868534735})
 :pages (
 {:block/uuid #uuid "644e88c5-584c-497b-95fe-bc19d75c92a3"
 :block/properties 
@@ -205,8 +233,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("7e2abb42-e76b-11ed-bd5f-23d02b78f66e" "805e3d10-e76b-11ed-bd5f-23d02b78f66e" "8429eb10-e76b-11ed-bd5f-23d02b78f66e" "8a212ba0-e76b-11ed-bd5f-23d02b78f66e" "8e2fd610-e76b-11ed-bd5f-23d02b78f66e" "937db740-e76b-11ed-bd5f-23d02b78f66e")}}
-:block/updated-at 1682868483261
+:shapes-index ("7e2abb42-e76b-11ed-bd5f-23d02b78f66e" "805e3d10-e76b-11ed-bd5f-23d02b78f66e" "8429eb10-e76b-11ed-bd5f-23d02b78f66e" "8a212ba0-e76b-11ed-bd5f-23d02b78f66e" "8e2fd610-e76b-11ed-bd5f-23d02b78f66e" "937db740-e76b-11ed-bd5f-23d02b78f66e" "b3290400-e76b-11ed-bd5f-23d02b78f66e")}}
+:block/updated-at 1682868534734
 :block/created-at 1682868421770
 :block/type "whiteboard"
 :block/name "longtermplan"
