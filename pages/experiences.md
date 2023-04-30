@@ -9,6 +9,10 @@ tags:: pilin
 	- Just because he breathes, does not mean that he consciously experiences himself breathing.
 	- Given a behaviour, you hence cannot guess the conscious experience with high certainty.
 - Any consciousness of experience can be thought of as
+- The philosophical zombie:
+	- Exactly the same person, except for missing their consciousness.
+- The anti zombie:
+	- If someone is copied by atoms he must necessarily be conscious (anti zombie by construction).
 - Experiences can be sorted into **categories**, a favourite past-time of philosophers.
 	- **Unintentional experiences** are also called **imprinted** experiences, because they are forced onto you.
 		- You can however choose to not focus on them.
