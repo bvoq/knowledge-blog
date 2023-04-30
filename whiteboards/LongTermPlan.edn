@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1682868534734
+{:block/created-at 1682868553597
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -34,8 +34,8 @@
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
 :nonce 1682868438548
 :italic false}}
-:block/updated-at 1682868534734} 
-{:block/created-at 1682868534734
+:block/updated-at 1682868553597} 
+{:block/created-at 1682868553600
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -71,8 +71,8 @@
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
 :nonce 1682868438939
 :italic false}}
-:block/updated-at 1682868534734} 
-{:block/created-at 1682868534734
+:block/updated-at 1682868553600} 
+{:block/created-at 1682868553600
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -108,8 +108,8 @@
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
 :nonce 1682868439027
 :italic false}}
-:block/updated-at 1682868534734} 
-{:block/created-at 1682868534734
+:block/updated-at 1682868553600} 
+{:block/created-at 1682868553600
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -137,8 +137,8 @@
 :nonce 1682868458516
 :italic false
 :text "Money"}}
-:block/updated-at 1682868534734} 
-{:block/created-at 1682868534735
+:block/updated-at 1682868553600} 
+{:block/created-at 1682868553600
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -167,8 +167,8 @@
 :nonce 1682868458611
 :italic false
 :text "MoodDex"}}
-:block/updated-at 1682868534735} 
-{:block/created-at 1682868534735
+:block/updated-at 1682868553600} 
+{:block/created-at 1682868553600
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -198,8 +198,9 @@
 :nonce 1682868458828
 :italic false
 :text "Relationship\nLifestyle"}}
-:block/updated-at 1682868534735} 
-{:block/properties 
+:block/updated-at 1682868553600} 
+{:block/created-at 1682868553600
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -212,16 +213,16 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label ""
+:label "Mobile Engineer"
 :id "b3290400-e76b-11ed-bd5f-23d02b78f66e"
 :fontWeight 400
 :noFill false
 :point [539.01875 774.0585937499997]
 :fontSize 20
 :parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
-:nonce 1682868527390
+:nonce 1682868527405
 :italic false}}
-:block/updated-at 1682868534735})
+:block/updated-at 1682868553600})
 :pages (
 {:block/uuid #uuid "644e88c5-584c-497b-95fe-bc19d75c92a3"
 :block/properties 
@@ -234,7 +235,7 @@
 :nonce 1
 :assets []
 :shapes-index ("7e2abb42-e76b-11ed-bd5f-23d02b78f66e" "805e3d10-e76b-11ed-bd5f-23d02b78f66e" "8429eb10-e76b-11ed-bd5f-23d02b78f66e" "8a212ba0-e76b-11ed-bd5f-23d02b78f66e" "8e2fd610-e76b-11ed-bd5f-23d02b78f66e" "937db740-e76b-11ed-bd5f-23d02b78f66e" "b3290400-e76b-11ed-bd5f-23d02b78f66e")}}
-:block/updated-at 1682868534734
+:block/updated-at 1682868553597
 :block/created-at 1682868421770
 :block/type "whiteboard"
 :block/name "longtermplan"
