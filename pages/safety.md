@@ -47,6 +47,7 @@
 			- Head damage.
 			- Sauerstoffmangel.
 			- Poison.
+			  id:: 644e6211-e1cc-4d70-b5e8-904dc1063e31
 			-
 		- Problems
 			- Tongue muscle may loosen and block breathing ways.
