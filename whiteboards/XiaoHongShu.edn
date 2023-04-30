@@ -1,0 +1,564 @@
+{:blocks (
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "94e21c80-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [123.70708815158449 130.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861604522
+:isComplete false}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[2 0 0.5] [2 0 0.5] [1 8 0.5] [1 14 0.5] [1 19 0.5] [0 23 0.5] [0 25 0.5] [1 25 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "95169a00-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-92.29291184841551 -154.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861604873
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 1 0.5] [3 3 0.5] [4 3 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "953d0dc0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-79.29291184841551 -139.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861605121
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 2 0.5] [0 1 0.5] [1 0 0.5] [1 1 0.5] [2 3 0.5] [2 6 0.5] [2 10 0.5] [2 14 0.5] [1 17 0.5] [1 18 0.5] [1 17 0.5] [3 14 0.5] [5 9 0.5] [9 5 0.5] [14 4 0.5] [18 4 0.5] [20 4 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "97338690-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [92.70708815158449 -148.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861608427
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 12 0.5] [1 12 0.5] [2 13 0.5] [5 13 0.5] [7 11 0.5] [9 9 0.5] [11 7 0.5] [13 5 0.5] [13 3 0.5] [10 1 0.5] [7 0 0.5] [5 2 0.5] [3 5 0.5] [3 10 0.5] [3 14 0.5] [5 18 0.5] [8 20 0.5] [12 20 0.5] [15 18 0.5] [16 17 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9700ddd0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [70.70708815158449 -151.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861608098
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[9 0 0.5] [9 0 0.5] [9 4 0.5] [7 11 0.5] [5 20 0.5] [2 29 0.5] [1 35 0.5] [0 37 0.5] [1 36 0.5] [2 33 0.5] [4 28 0.5] [7 24 0.5] [11 22 0.5] [14 24 0.5] [17 29 0.5] [19 32 0.5] [22 34 0.5] [25 33 0.5] [28 31 0.5] [30 28 0.5] [31 25 0.5] [29 23 0.5] [27 22 0.5] [25 24 0.5] [22 27 0.5] [21 31 0.5] [21 35 0.5] [21 38 0.5] [23 39 0.5] [25 38 0.5] [27 35 0.5] [28 31 0.5] [30 27 0.5] [32 26 0.5] [34 27 0.5] [36 30 0.5] [37 32 0.5] [38 33 0.5] [39 33 0.5] [39 32 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9614d020-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-21.292911848415514 -168.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861606572
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 0 0.5] [3 0 0.5] [6 0 0.5] [9 1 0.5] [11 4 0.5] [12 7 0.5] [12 9 0.5] [9 11 0.5] [7 11 0.5] [4 10 0.5] [3 9 0.5] [4 13 0.5] [5 18 0.5] [6 23 0.5] [6 26 0.5] [7 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "96845ad0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [21.707088151584486 -151.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861607281
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[2 0 0.5] [2 4 0.5] [1 9 0.5] [0 14 0.5] [0 18 0.5] [0 21 0.5] [1 22 0.5] [2 22 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "96e23240-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [52.707088151584486 -154.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861607886
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 5 0.5] [0 6 0.5] [2 6 0.5] [5 5 0.5] [9 4 0.5] [14 3 0.5] [18 1 0.5] [20 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "96c3fbe0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [42.707088151584486 -145.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861607687
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[9 0 0.5] [7 0 0.5] [4 0 0.5] [2 2 0.5] [0 4 0.5] [0 9 0.5] [0 14 0.5] [1 17 0.5] [3 19 0.5] [5 19 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "95eeaa80-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-40.292911848415514 -151.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861606292
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 3 0.5] [1 4 0.5] [3 8 0.5] [3 9 0.5] [4 7 0.5] [5 4 0.5] [7 2 0.5] [10 0 0.5] [13 1 0.5] [15 4 0.5] [17 7 0.5] [17 9 0.5] [18 10 0.5] [19 9 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "97c9d320-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [163.7070881515845 -145.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861609409
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[4 0 0.5] [3 1 0.5] [1 7 0.5] [0 11 0.5] [1 15 0.5] [3 18 0.5] [6 18 0.5] [9 16 0.5] [11 12 0.5] [12 8 0.5] [11 5 0.5] [9 2 0.5] [7 2 0.5] [6 2 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9799c270-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [144.7070881515845 -148.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861609094
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 10 0.5] [1 10 0.5] [6 13 0.5] [9 12 0.5] [12 10 0.5] [14 8 0.5] [16 5 0.5] [15 2 0.5] [12 0 0.5] [7 1 0.5] [4 4 0.5] [3 10 0.5] [6 18 0.5] [12 24 0.5] [18 26 0.5] [21 26 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "97ff3b00-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [194.7070881515845 -150.83776150217363]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861609761
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [3 0 0.5] [4 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "997a4240-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [19.707088151584486 -50.837761502173635]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861612233
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 1 0.5] [1 2 0.5] [4 2 0.5] [8 1 0.5] [10 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "995ea3f0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-29.292911848415514 -50.837761502173635]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861612053
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "990ab790-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [124.70708815158449 109.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861611499
+:isComplete false}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9912cde0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [190.7070881515845 368.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861611551
+:isComplete false}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [7 0 0.5] [9 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "99426960-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-73.29291184841551 -45.837761502173635]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861611867
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1 0 0.5] [2 0 0.5] [4 0 0.5] [5 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9a63b7e0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-57.292911848415514 186.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861613764
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 7 0.5] [1 7 0.5] [1 3 0.5] [4 1 0.5] [7 0 0.5] [11 0 0.5] [15 2 0.5] [18 6 0.5] [18 11 0.5] [14 18 0.5] [8 25 0.5] [3 32 0.5] [1 36 0.5] [0 39 0.5] [1 40 0.5] [3 39 0.5] [6 38 0.5] [12 35 0.5] [18 32 0.5] [24 29 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9a2c5430-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-92.29291184841551 158.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861613416
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[14 20 0.5] [13 19 0.5] [6 20 0.5] [2 25 0.5] [0 31 0.5] [0 37 0.5] [2 40 0.5] [6 41 0.5] [12 39 0.5] [18 34 0.5] [23 27 0.5] [26 19 0.5] [25 10 0.5] [25 3 0.5] [25 0 0.5] [26 3 0.5] [26 8 0.5] [26 16 0.5] [25 23 0.5] [23 30 0.5] [23 36 0.5] [23 37 0.5] [25 36 0.5] [27 31 0.5] [29 26 0.5] [31 25 0.5] [34 26 0.5] [36 30 0.5] [38 34 0.5] [39 35 0.5] [41 39 0.5] [45 40 0.5] [48 38 0.5] [50 35 0.5] [51 31 0.5] [49 27 0.5] [46 25 0.5] [43 25 0.5] [41 26 0.5] [40 30 0.5] [39 34 0.5] [40 37 0.5] [43 39 0.5] [46 39 0.5] [49 36 0.5] [51 31 0.5] [52 28 0.5] [53 27 0.5] [53 29 0.5] [54 30 0.5] [56 30 0.5] [57 30 0.5] [59 28 0.5] [60 24 0.5] [61 21 0.5] [62 20 0.5] [62 21 0.5] [63 24 0.5] [63 29 0.5] [63 34 0.5] [63 37 0.5] [62 38 0.5] [63 35 0.5] [64 32 0.5] [67 28 0.5] [70 25 0.5] [73 22 0.5] [75 20 0.5] [78 20 0.5] [81 20 0.5] [83 20 0.5] [85 21 0.5] [86 21 0.5] [87 21 0.5] [88 20 0.5] [89 20 0.5] [90 20 0.5] [92 19 0.5] [93 19 0.5] [95 20 0.5] [95 23 0.5] [95 26 0.5] [94 29 0.5] [91 32 0.5] [88 34 0.5] [86 35 0.5] [84 34 0.5] [82 30 0.5] [80 27 0.5] [80 25 0.5] [80 24 0.5] [81 26 0.5] [83 30 0.5] [84 36 0.5] [85 43 0.5] [85 48 0.5] [86 52 0.5] [87 53 0.5] [90 51 0.5] [91 49 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9aa3ce20-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [-16.292911848415514 147.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861614279
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[4 0 0.5] [3 1 0.5] [1 3 0.5] [0 7 0.5] [0 12 0.5] [0 18 0.5] [1 22 0.5] [4 24 0.5] [7 23 0.5] [11 21 0.5] [17 19 0.5] [21 17 0.5] [25 14 0.5] [27 11 0.5] [28 7 0.5] [26 5 0.5] [23 3 0.5] [19 3 0.5] [16 5 0.5] [14 8 0.5] [14 13 0.5] [16 17 0.5] [20 19 0.5] [25 20 0.5] [29 18 0.5] [33 14 0.5] [37 10 0.5] [39 6 0.5] [41 5 0.5] [42 7 0.5] [42 11 0.5] [42 15 0.5] [41 19 0.5] [40 22 0.5] [40 23 0.5] [40 22 0.5] [41 19 0.5] [44 16 0.5] [46 14 0.5] [50 12 0.5] [55 12 0.5] [58 12 0.5] [61 14 0.5] [63 16 0.5] [64 18 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9bcf07b0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [98.70708815158449 163.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861616185
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 6 0.5] [1 5 0.5] [2 4 0.5] [4 3 0.5] [6 3 0.5] [11 3 0.5] [16 3 0.5] [20 2 0.5] [24 2 0.5] [27 1 0.5] [27 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9baed580-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [80.70708815158449 172.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861615941
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 6 0.5] [0 6 0.5] [1 6 0.5] [5 5 0.5] [9 4 0.5] [13 3 0.5] [16 2 0.5] [18 2 0.5] [18 1 0.5] [18 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9ca23630-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [200.7070881515845 173.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861617534
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[5 0 0.5] [5 1 0.5] [3 2 0.5] [2 5 0.5] [1 9 0.5] [0 14 0.5] [0 19 0.5] [1 21 0.5] [4 22 0.5] [6 21 0.5] [10 19 0.5] [13 15 0.5] [16 11 0.5] [18 7 0.5] [19 6 0.5] [20 6 0.5] [20 9 0.5] [20 12 0.5] [20 16 0.5] [20 19 0.5] [21 20 0.5] [23 20 0.5] [25 17 0.5] [28 14 0.5] [31 10 0.5] [32 8 0.5] [33 7 0.5] [33 9 0.5] [33 12 0.5] [32 15 0.5] [32 17 0.5] [33 19 0.5] [36 19 0.5] [38 17 0.5] [41 15 0.5] [43 13 0.5] [45 12 0.5] [46 12 0.5] [46 13 0.5] [47 14 0.5] [47 16 0.5] [48 17 0.5] [50 17 0.5] [53 18 0.5] [55 17 0.5] [58 15 0.5] [60 12 0.5] [61 8 0.5] [60 5 0.5] [58 4 0.5] [54 4 0.5] [51 6 0.5] [49 9 0.5] [48 13 0.5] [49 16 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9cc5c3c0-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [207.7070881515845 166.16223849782637]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861617812
+:isComplete true}}
+:block/updated-at 1682861644920} 
+{:block/created-at 1682861644920
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a7753530-e75b-11ed-a527-8b1a4efacfe6"
+:noFill true
+:point [296.5 669.5]
+:parentId "644e6d83-1c5e-486e-89b0-953c845ff464"
+:nonce 1682861635588
+:isComplete false}}
+:block/updated-at 1682861644920})
+:pages (
+{:block/uuid #uuid "644e6d83-1c5e-486e-89b0-953c845ff464"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "644e6d83-1c5e-486e-89b0-953c845ff464"
+:name "xiaohongshu"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("94e21c80-e75b-11ed-a527-8b1a4efacfe6" "95169a00-e75b-11ed-a527-8b1a4efacfe6" "953d0dc0-e75b-11ed-a527-8b1a4efacfe6" "95eeaa80-e75b-11ed-a527-8b1a4efacfe6" "9614d020-e75b-11ed-a527-8b1a4efacfe6" "96845ad0-e75b-11ed-a527-8b1a4efacfe6" "96c3fbe0-e75b-11ed-a527-8b1a4efacfe6" "96e23240-e75b-11ed-a527-8b1a4efacfe6" "9700ddd0-e75b-11ed-a527-8b1a4efacfe6" "97338690-e75b-11ed-a527-8b1a4efacfe6" "9799c270-e75b-11ed-a527-8b1a4efacfe6" "97c9d320-e75b-11ed-a527-8b1a4efacfe6" "97ff3b00-e75b-11ed-a527-8b1a4efacfe6" "990ab790-e75b-11ed-a527-8b1a4efacfe6" "9912cde0-e75b-11ed-a527-8b1a4efacfe6" "99426960-e75b-11ed-a527-8b1a4efacfe6" "995ea3f0-e75b-11ed-a527-8b1a4efacfe6" "997a4240-e75b-11ed-a527-8b1a4efacfe6" "9a2c5430-e75b-11ed-a527-8b1a4efacfe6" "9a63b7e0-e75b-11ed-a527-8b1a4efacfe6" "9aa3ce20-e75b-11ed-a527-8b1a4efacfe6" "9baed580-e75b-11ed-a527-8b1a4efacfe6" "9bcf07b0-e75b-11ed-a527-8b1a4efacfe6" "9ca23630-e75b-11ed-a527-8b1a4efacfe6" "9cc5c3c0-e75b-11ed-a527-8b1a4efacfe6" "a7753530-e75b-11ed-a527-8b1a4efacfe6")}}
+:block/updated-at 1682861644919
+:block/created-at 1682861443069
+:block/type "whiteboard"
+:block/name "xiaohongshu"
+:block/original-name "XiaoHongShu"})}
