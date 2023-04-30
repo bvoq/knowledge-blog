@@ -1,0 +1,213 @@
+{:blocks (
+{:block/created-at 1682868483261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7e2abb42-e76b-11ed-bd5f-23d02b78f66e"
+:fontWeight 400
+:noFill true
+:point [382.51 155.76]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.37 708.02]}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:nonce 1682868438420
+:italic false}}
+:block/updated-at 1682868483261} 
+{:block/created-at 1682868483261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "805e3d10-e76b-11ed-bd5f-23d02b78f66e"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [634.78125 155.90625]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.37 708.02]}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]}}
+:decorations 
+{:end "arrow"}
+:parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:nonce 1682868438822
+:italic false}}
+:block/updated-at 1682868483261} 
+{:block/created-at 1682868483261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "8429eb10-e76b-11ed-bd5f-23d02b78f66e"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [912.44140625 161.08984375]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0.37 708.02]}
+:end 
+{:id "end"
+:canBind true
+:point [0 0]}}
+:decorations 
+{:end "arrow"}
+:parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:nonce 1682868438880
+:italic false}}
+:block/updated-at 1682868483261} 
+{:block/created-at 1682868483261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [75 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8a212ba0-e76b-11ed-bd5f-23d02b78f66e"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [880.4703125 103.90859375]
+:lineHeight 1.2
+:fontSize 20
+:parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:nonce 1682868458468
+:italic false
+:text "Money"}}
+:block/updated-at 1682868483261} 
+{:block/created-at 1682868483261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [102 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8e2fd610-e76b-11ed-bd5f-23d02b78f66e"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [605.1421875 102.0921875]
+:lineHeight 1.2
+:fontSize 20
+:parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:nonce 1682868458611
+:italic false
+:text "MoodDex"}}
+:block/updated-at 1682868483261} 
+{:block/created-at 1682868483261
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [127 58]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "937db740-e76b-11ed-bd5f-23d02b78f66e"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [332.8453125 84.0453125]
+:lineHeight 1.2
+:fontSize 20
+:parentId "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:nonce 1682868458828
+:italic false
+:text "Relationship\nLifestyle"}}
+:block/updated-at 1682868483261})
+:pages (
+{:block/uuid #uuid "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "644e88c5-584c-497b-95fe-bc19d75c92a3"
+:name "longtermplan"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("7e2abb42-e76b-11ed-bd5f-23d02b78f66e" "805e3d10-e76b-11ed-bd5f-23d02b78f66e" "8429eb10-e76b-11ed-bd5f-23d02b78f66e" "8a212ba0-e76b-11ed-bd5f-23d02b78f66e" "8e2fd610-e76b-11ed-bd5f-23d02b78f66e" "937db740-e76b-11ed-bd5f-23d02b78f66e")}}
+:block/updated-at 1682868483261
+:block/created-at 1682868421770
+:block/type "whiteboard"
+:block/name "longtermplan"
+:block/original-name "LongTermPlan"})}
