@@ -1,0 +1,4 @@
+- Our wedding ring can be solved as follows:
+- {{video https://www.youtube.com/watch?v=Bbc8HgYAVmI}}
+- In case the video doesn't work, put 2 and 3 and 1 and 4 together.
+- Then leave some space between 2 and 3
