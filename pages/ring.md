@@ -1,4 +1,5 @@
 - Our wedding ring can be solved as follows:
 - {{video https://www.youtube.com/watch?v=Bbc8HgYAVmI}}
 - In case the video doesn't work, put 2 and 3 and 1 and 4 together.
-- Then leave some space between 2 and 3
+- Then leave some space between 2 and 3 and leave some space between 1 and 4.
+- Lastly, put 4 over 3 under 2. Band 1 should then lay over all other bands and it should be finished.
